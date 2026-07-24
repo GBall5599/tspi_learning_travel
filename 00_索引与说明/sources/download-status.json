@@ -1,0 +1,488 @@
+﻿{
+    "generated_at":  "2026-07-19 15:30:52 +08:00",
+    "root":  "E:\\Embed_Proj\\tspi_rk3566",
+    "total":  53,
+    "downloaded":  50,
+    "skipped":  0,
+    "manual_required":  3,
+    "failed":  0,
+    "results":  [
+                    {
+                        "title":  "buildroot-add-ffmpeg",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/buildroot-add-ffmpeg.html",
+                        "target":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.41
+                    },
+                    {
+                        "title":  "extraction-board-system",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/extraction-board-system.html",
+                        "target":  "01_Wiki离线文档/documentation/extraction-board-system.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.59
+                    },
+                    {
+                        "title":  "gj-8g-memory-compiling-android-firmware",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-8g-memory-compiling-android-firmware.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-8g-memory-compiling-android-firmware.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.78
+                    },
+                    {
+                        "title":  "gj-opencv-face-recognition",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.05
+                    },
+                    {
+                        "title":  "gj-opencv-face-recognition-haar-lpbh",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition-haar-lpbh.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition-haar-lpbh.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.35
+                    },
+                    {
+                        "title":  "gj-porting-raspberrypi-to-opencv",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-porting-raspberrypi-to-opencv.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-porting-raspberrypi-to-opencv.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.26
+                    },
+                    {
+                        "title":  "gj-rk3566-buildroot-add-qt",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rk3566-buildroot-add-qt.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-rk3566-buildroot-add-qt.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  9.07
+                    },
+                    {
+                        "title":  "gj-rknn-mobilenet-v3-use",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rknn-mobilenet-v3-use.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-rknn-mobilenet-v3-use.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.35
+                    },
+                    {
+                        "title":  "gj-run-c-c-plus-program",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-run-c-c-plus-program.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-run-c-c-plus-program.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  3.65
+                    },
+                    {
+                        "title":  "gj-ssd1315-oled-module",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ssd1315-oled-module.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-ssd1315-oled-module.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.07
+                    },
+                    {
+                        "title":  "gj-tspi-driver-video-tutorial",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-tspi-driver-video-tutorial.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-tspi-driver-video-tutorial.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.65
+                    },
+                    {
+                        "title":  "gj-ubuntu-22-04-lts-compile",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-22-04-lts-compile.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-ubuntu-22-04-lts-compile.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.48
+                    },
+                    {
+                        "title":  "gj-ubuntu-install-opencv",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-install-opencv.html",
+                        "target":  "01_Wiki离线文档/documentation/gj-ubuntu-install-opencv.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.02
+                    },
+                    {
+                        "title":  "io-allocation-table",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/io-allocation-table.html",
+                        "target":  "01_Wiki离线文档/documentation/io-allocation-table.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.17
+                    },
+                    {
+                        "title":  "mipi-4inch-long-screen-adapter-board",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/mipi-4inch-long-screen-adapter-board.html",
+                        "target":  "01_Wiki离线文档/documentation/mipi-4inch-long-screen-adapter-board.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  3.94
+                    },
+                    {
+                        "title":  "spi-to-can",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/spi-to-can.html",
+                        "target":  "01_Wiki离线文档/documentation/spi-to-can.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  8.39
+                    },
+                    {
+                        "title":  "sqlite3-database-environment-setup",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/sqlite3-database-environment-setup.html",
+                        "target":  "01_Wiki离线文档/documentation/sqlite3-database-environment-setup.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.5
+                    },
+                    {
+                        "title":  "transplant-qt5",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/transplant-qt5.html",
+                        "target":  "01_Wiki离线文档/documentation/transplant-qt5.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.19
+                    },
+                    {
+                        "title":  "usb-share-network-rndis",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/usb-share-network-rndis.html",
+                        "target":  "01_Wiki离线文档/documentation/usb-share-network-rndis.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.16
+                    },
+                    {
+                        "title":  "download-center",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/download-center.html",
+                        "target":  "01_Wiki离线文档/download-center.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.2
+                    },
+                    {
+                        "title":  "miniLoader",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/question/miniLoader.html",
+                        "target":  "01_Wiki离线文档/question/miniLoader.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.49
+                    },
+                    {
+                        "title":  "android-13-sdk-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/android-13-sdk-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  7.24
+                    },
+                    {
+                        "title":  "android-sdk-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/android-sdk-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.31
+                    },
+                    {
+                        "title":  "docker-compiling-environment",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/docker-compiling-environment.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/docker-compiling-environment.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.14
+                    },
+                    {
+                        "title":  "kernel6-1-linux-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/kernel6-1-linux-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/kernel6-1-linux-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.3
+                    },
+                    {
+                        "title":  "linux-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/linux-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/linux-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.45
+                    },
+                    {
+                        "title":  "openharmony-sdk-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openharmony-sdk-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/openharmony-sdk-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.43
+                    },
+                    {
+                        "title":  "openkylin-sdk-compilation",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openkylin-sdk-compilation.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/openkylin-sdk-compilation.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.17
+                    },
+                    {
+                        "title":  "virtualBox-ubuntu-compiling-environment",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/virtualBox-ubuntu-compiling-environment.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/virtualBox-ubuntu-compiling-environment.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.73
+                    },
+                    {
+                        "title":  "wsl2-install-ubuntu",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/wsl2-install-ubuntu.html",
+                        "target":  "01_Wiki离线文档/sdk-compilation/wsl2-install-ubuntu.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.34
+                    },
+                    {
+                        "title":  "android-system-usage",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/android-system-usage.html",
+                        "target":  "01_Wiki离线文档/system-usage/android-system-usage.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  7.6
+                    },
+                    {
+                        "title":  "buildroot-system-usage",
+                        "category":  "wiki",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/buildroot-system-usage.html",
+                        "target":  "01_Wiki离线文档/system-usage/buildroot-system-usage.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  17.09
+                    },
+                    {
+                        "title":  "泰山派嘉立创开源硬件项目",
+                        "category":  "board",
+                        "url":  "https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-tai-shan-pai-kai-fa-ban",
+                        "target":  "02_开发板硬件/oshwhub/泰山派开源硬件项目.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  3.52
+                    },
+                    {
+                        "title":  "jlceda-project-file-opening",
+                        "category":  "board",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/jlceda-project-file-opening.html",
+                        "target":  "02_开发板硬件/wiki/jlceda-project-file-opening.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  3.99
+                    },
+                    {
+                        "title":  "泰山派开源硬件入口",
+                        "category":  "board",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/",
+                        "target":  "02_开发板硬件/wiki/open-source-hardware.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.54
+                    },
+                    {
+                        "title":  "泰山派 RK3566 主页",
+                        "category":  "board",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/",
+                        "target":  "02_开发板硬件/wiki/README.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.98
+                    },
+                    {
+                        "title":  "LCKFB 3.1寸屏幕扩展板",
+                        "category":  "screen",
+                        "url":  "https://wiki.lckfb.com/zh-hans/lushan-pi-k230/open-source-hardware/lckfb-mipi-3.1inch-screen.html",
+                        "target":  "03_3.1寸MIPI屏/3.1寸屏幕扩展板.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.61
+                    },
+                    {
+                        "title":  "device-tree",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/device-tree.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/device-tree.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.01
+                    },
+                    {
+                        "title":  "linux-common-commands",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/linux-common-commands.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/linux-common-commands.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  8.73
+                    },
+                    {
+                        "title":  "mobile-phone-integrated-project",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/mobile-phone-integrated-project.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/mobile-phone-integrated-project.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.17
+                    },
+                    {
+                        "title":  "programming-environment-setup",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/programming-environment-setup.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/programming-environment-setup.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.46
+                    },
+                    {
+                        "title":  "screen-selection-debugging",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/screen-selection-debugging.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/screen-selection-debugging.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.57
+                    },
+                    {
+                        "title":  "sdk-compile",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/sdk-compile.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/sdk-compile.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.28
+                    },
+                    {
+                        "title":  "touch-drive",
+                        "category":  "screen-project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/touch-drive.html",
+                        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/touch-drive.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  2.73
+                    },
+                    {
+                        "title":  "3.1寸屏 EDA 工程（百度网盘）",
+                        "category":  "screen",
+                        "url":  "https://pan.baidu.com/s/18jLiGxKXC-NHXBkfe1DMqg?pwd=LJPI",
+                        "target":  "03_3.1寸MIPI屏/需登录下载/3.1寸屏EDA工程.txt",
+                        "status":  "manual_required",
+                        "message":  "已生成下载入口索引",
+                        "elapsed_seconds":  0
+                    },
+                    {
+                        "title":  "3.1寸屏 6P与31P排线工程（百度网盘）",
+                        "category":  "screen",
+                        "url":  "https://pan.baidu.com/s/1FPA_99J04nlv-28y95Kj8w?pwd=LJPI",
+                        "target":  "03_3.1寸MIPI屏/需登录下载/6P与31P排线工程.txt",
+                        "status":  "manual_required",
+                        "message":  "已生成下载入口索引",
+                        "elapsed_seconds":  0
+                    },
+                    {
+                        "title":  "img-download",
+                        "category":  "image",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/img-download/img-download.html",
+                        "target":  "04_SDK与镜像/wiki/img-download.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  6.01
+                    },
+                    {
+                        "title":  "泰山派完整资料（百度网盘）",
+                        "category":  "archive",
+                        "url":  "https://pan.baidu.com/s/5m1jN3xFWAu_8qbUbidNeMw",
+                        "target":  "04_SDK与镜像/需登录下载/百度网盘总资料.txt",
+                        "status":  "manual_required",
+                        "message":  "已生成下载入口索引",
+                        "elapsed_seconds":  0
+                    },
+                    {
+                        "title":  "adb-install-use",
+                        "category":  "tool",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/adb-install-use.html",
+                        "target":  "05_开发工具/wiki/adb-install-use.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  3.75
+                    },
+                    {
+                        "title":  "debug-tools-use",
+                        "category":  "tool",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/debug-tools-use.html",
+                        "target":  "05_开发工具/wiki/debug-tools-use.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  4.57
+                    },
+                    {
+                        "title":  "scrcpy-tool-use",
+                        "category":  "tool",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use.html",
+                        "target":  "05_开发工具/wiki/scrcpy-tool-use.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  37.82
+                    },
+                    {
+                        "title":  "open-source-project-recommendations",
+                        "category":  "project",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/open-source-project-recommendations.html",
+                        "target":  "06_项目案例/open-source-project-recommendations.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  5.78
+                    },
+                    {
+                        "title":  "快速入门【必看】",
+                        "category":  "quick-start",
+                        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/quick-start/",
+                        "target":  "01_Wiki离线文档/quick-start/README.md",
+                        "status":  "downloaded",
+                        "message":  "抓取成功",
+                        "elapsed_seconds":  0
+                    }
+                ]
+}

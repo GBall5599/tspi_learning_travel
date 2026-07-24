@@ -1,0 +1,373 @@
+﻿[
+    {
+        "category":  "wiki",
+        "title":  "buildroot-add-ffmpeg",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/buildroot-add-ffmpeg.html",
+        "target":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "extraction-board-system",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/extraction-board-system.html",
+        "target":  "01_Wiki离线文档/documentation/extraction-board-system.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-8g-memory-compiling-android-firmware",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-8g-memory-compiling-android-firmware.html",
+        "target":  "01_Wiki离线文档/documentation/gj-8g-memory-compiling-android-firmware.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-opencv-face-recognition",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition.html",
+        "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-opencv-face-recognition-haar-lpbh",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition-haar-lpbh.html",
+        "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition-haar-lpbh.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-porting-raspberrypi-to-opencv",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-porting-raspberrypi-to-opencv.html",
+        "target":  "01_Wiki离线文档/documentation/gj-porting-raspberrypi-to-opencv.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-rk3566-buildroot-add-qt",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rk3566-buildroot-add-qt.html",
+        "target":  "01_Wiki离线文档/documentation/gj-rk3566-buildroot-add-qt.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-rknn-mobilenet-v3-use",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rknn-mobilenet-v3-use.html",
+        "target":  "01_Wiki离线文档/documentation/gj-rknn-mobilenet-v3-use.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-run-c-c-plus-program",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-run-c-c-plus-program.html",
+        "target":  "01_Wiki离线文档/documentation/gj-run-c-c-plus-program.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-ssd1315-oled-module",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ssd1315-oled-module.html",
+        "target":  "01_Wiki离线文档/documentation/gj-ssd1315-oled-module.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-tspi-driver-video-tutorial",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-tspi-driver-video-tutorial.html",
+        "target":  "01_Wiki离线文档/documentation/gj-tspi-driver-video-tutorial.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-ubuntu-22-04-lts-compile",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-22-04-lts-compile.html",
+        "target":  "01_Wiki离线文档/documentation/gj-ubuntu-22-04-lts-compile.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "gj-ubuntu-install-opencv",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-install-opencv.html",
+        "target":  "01_Wiki离线文档/documentation/gj-ubuntu-install-opencv.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "io-allocation-table",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/io-allocation-table.html",
+        "target":  "01_Wiki离线文档/documentation/io-allocation-table.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "mipi-4inch-long-screen-adapter-board",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/mipi-4inch-long-screen-adapter-board.html",
+        "target":  "01_Wiki离线文档/documentation/mipi-4inch-long-screen-adapter-board.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "spi-to-can",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/spi-to-can.html",
+        "target":  "01_Wiki离线文档/documentation/spi-to-can.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "sqlite3-database-environment-setup",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/sqlite3-database-environment-setup.html",
+        "target":  "01_Wiki离线文档/documentation/sqlite3-database-environment-setup.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "transplant-qt5",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/transplant-qt5.html",
+        "target":  "01_Wiki离线文档/documentation/transplant-qt5.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "usb-share-network-rndis",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/usb-share-network-rndis.html",
+        "target":  "01_Wiki离线文档/documentation/usb-share-network-rndis.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "download-center",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/download-center.html",
+        "target":  "01_Wiki离线文档/download-center.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "miniLoader",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/question/miniLoader.html",
+        "target":  "01_Wiki离线文档/question/miniLoader.md",
+        "access":  "public"
+    },
+    {
+        "category":  "quick-start",
+        "title":  "快速入门【必看】",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/quick-start/",
+        "target":  "01_Wiki离线文档/quick-start/README.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "android-13-sdk-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/android-13-sdk-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "android-sdk-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/android-sdk-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "docker-compiling-environment",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/docker-compiling-environment.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/docker-compiling-environment.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "kernel6-1-linux-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/kernel6-1-linux-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/kernel6-1-linux-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "linux-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/linux-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/linux-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "openharmony-sdk-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openharmony-sdk-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/openharmony-sdk-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "openkylin-sdk-compilation",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openkylin-sdk-compilation.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/openkylin-sdk-compilation.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "virtualBox-ubuntu-compiling-environment",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/virtualBox-ubuntu-compiling-environment.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/virtualBox-ubuntu-compiling-environment.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "wsl2-install-ubuntu",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/wsl2-install-ubuntu.html",
+        "target":  "01_Wiki离线文档/sdk-compilation/wsl2-install-ubuntu.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "android-system-usage",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/android-system-usage.html",
+        "target":  "01_Wiki离线文档/system-usage/android-system-usage.md",
+        "access":  "public"
+    },
+    {
+        "category":  "wiki",
+        "title":  "buildroot-system-usage",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/buildroot-system-usage.html",
+        "target":  "01_Wiki离线文档/system-usage/buildroot-system-usage.md",
+        "access":  "public"
+    },
+    {
+        "category":  "board",
+        "title":  "泰山派嘉立创开源硬件项目",
+        "url":  "https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-tai-shan-pai-kai-fa-ban",
+        "target":  "02_开发板硬件/oshwhub/泰山派开源硬件项目.md",
+        "access":  "public"
+    },
+    {
+        "category":  "board",
+        "title":  "jlceda-project-file-opening",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/jlceda-project-file-opening.html",
+        "target":  "02_开发板硬件/wiki/jlceda-project-file-opening.md",
+        "access":  "public"
+    },
+    {
+        "category":  "board",
+        "title":  "泰山派开源硬件入口",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/",
+        "target":  "02_开发板硬件/wiki/open-source-hardware.md",
+        "access":  "public"
+    },
+    {
+        "category":  "board",
+        "title":  "泰山派 RK3566 主页",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/",
+        "target":  "02_开发板硬件/wiki/README.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen",
+        "title":  "LCKFB 3.1寸屏幕扩展板",
+        "url":  "https://wiki.lckfb.com/zh-hans/lushan-pi-k230/open-source-hardware/lckfb-mipi-3.1inch-screen.html",
+        "target":  "03_3.1寸MIPI屏/3.1寸屏幕扩展板.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "device-tree",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/device-tree.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/device-tree.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "linux-common-commands",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/linux-common-commands.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/linux-common-commands.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "mobile-phone-integrated-project",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/mobile-phone-integrated-project.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/mobile-phone-integrated-project.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "programming-environment-setup",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/programming-environment-setup.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/programming-environment-setup.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "screen-selection-debugging",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/screen-selection-debugging.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/screen-selection-debugging.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "sdk-compile",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/sdk-compile.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/sdk-compile.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen-project",
+        "title":  "touch-drive",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/touch-drive.html",
+        "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/touch-drive.md",
+        "access":  "public"
+    },
+    {
+        "category":  "screen",
+        "title":  "3.1寸屏 EDA 工程（百度网盘）",
+        "url":  "https://pan.baidu.com/s/18jLiGxKXC-NHXBkfe1DMqg?pwd=LJPI",
+        "target":  "03_3.1寸MIPI屏/需登录下载/3.1寸屏EDA工程.txt",
+        "access":  "manual_index"
+    },
+    {
+        "category":  "screen",
+        "title":  "3.1寸屏 6P与31P排线工程（百度网盘）",
+        "url":  "https://pan.baidu.com/s/1FPA_99J04nlv-28y95Kj8w?pwd=LJPI",
+        "target":  "03_3.1寸MIPI屏/需登录下载/6P与31P排线工程.txt",
+        "access":  "manual_index"
+    },
+    {
+        "category":  "image",
+        "title":  "img-download",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/img-download/img-download.html",
+        "target":  "04_SDK与镜像/wiki/img-download.md",
+        "access":  "public"
+    },
+    {
+        "category":  "archive",
+        "title":  "泰山派完整资料（百度网盘）",
+        "url":  "https://pan.baidu.com/s/5m1jN3xFWAu_8qbUbidNeMw",
+        "target":  "04_SDK与镜像/需登录下载/百度网盘总资料.txt",
+        "access":  "manual_index"
+    },
+    {
+        "category":  "tool",
+        "title":  "adb-install-use",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/adb-install-use.html",
+        "target":  "05_开发工具/wiki/adb-install-use.md",
+        "access":  "public"
+    },
+    {
+        "category":  "tool",
+        "title":  "debug-tools-use",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/debug-tools-use.html",
+        "target":  "05_开发工具/wiki/debug-tools-use.md",
+        "access":  "public"
+    },
+    {
+        "category":  "tool",
+        "title":  "scrcpy-tool-use",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use.html",
+        "target":  "05_开发工具/wiki/scrcpy-tool-use.md",
+        "access":  "public"
+    },
+    {
+        "category":  "project",
+        "title":  "open-source-project-recommendations",
+        "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/open-source-project-recommendations.html",
+        "target":  "06_项目案例/open-source-project-recommendations.md",
+        "access":  "public"
+    }
+]

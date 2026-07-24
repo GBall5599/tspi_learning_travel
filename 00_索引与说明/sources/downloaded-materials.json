@@ -1,0 +1,124 @@
+﻿{
+    "generated_at":  "2026-07-19 18:13:22 +08:00",
+    "file_count":  13,
+    "total_size_bytes":  3933173829,
+    "files":  [
+                  {
+                      "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-main.zip",
+                      "source":  "https://codeload.github.com/CmST0us/tspi-linux-sdk/zip/refs/heads/main",
+                      "kind":  "linux-sdk-source",
+                      "official":  false,
+                      "size_bytes":  1117667369,
+                      "sha256":  "50b027977504064dac9fc676258b843c63eb9f07e3e8bc7beab24f19966bba34",
+                      "downloaded_at":  "2026-07-19 17:43:12 +08:00"
+                  },
+                  {
+                      "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-ubuntu-rootfs/ubuntu.tar.gz",
+                      "source":  "https://github.com/CmST0us/tspi-linux-sdk-ubuntu-rootfs.git",
+                      "kind":  "ubuntu-rootfs",
+                      "official":  false,
+                      "size_bytes":  1617032992,
+                      "sha256":  "81ba1db5572cd87caa7919e70364b73226efafec9653835a5b0157efdb95c683",
+                      "downloaded_at":  "2026-07-19 17:59:52 +08:00"
+                  },
+                  {
+                      "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-ubuntu-rootfs/ubuntu_panfrost.tar.gz",
+                      "source":  "https://github.com/CmST0us/tspi-linux-sdk-ubuntu-rootfs.git",
+                      "kind":  "ubuntu-panfrost-rootfs",
+                      "official":  false,
+                      "size_bytes":  1104724207,
+                      "sha256":  "9841498c1841e9225daca9cc73c398af3e1a77d9a6f56cc26241ba865734a942",
+                      "downloaded_at":  "2026-07-19 17:56:19 +08:00"
+                  },
+                  {
+                      "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/boot-linux.img",
+                      "source":  "https://gitee.com/fengmoxi/tspi-d310t9362v1/releases/download/v1.0.0/boot-linux.img",
+                      "kind":  "screen-linux-boot",
+                      "official":  false,
+                      "size_bytes":  24054272,
+                      "sha256":  "373822f412e5b123f924361e54bdaa68ff4c35db41d175bd4178b044ee48fcf4",
+                      "downloaded_at":  "2026-07-19 18:02:52 +08:00"
+                  },
+                  {
+                      "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/boot-android.img",
+                      "source":  "https://gitee.com/fengmoxi/tspi-d310t9362v1/releases/download/v1.0.0/boot-android.img",
+                      "kind":  "screen-android-boot",
+                      "official":  false,
+                      "size_bytes":  33648640,
+                      "sha256":  "1cdc2c889226e5a4cecdb1eb6ff2e8c0d00ae14aec1d34fbfda16a492c539cad",
+                      "downloaded_at":  "2026-07-19 18:02:57 +08:00"
+                  },
+                  {
+                      "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/原厂资料/D310T9362V1-SPEC/D310T9362V1 SPEC.pdf",
+                      "source":  "https://gitee.com/fengmoxi/tspi-d310t9362v1.git",
+                      "kind":  "screen-datasheet",
+                      "official":  false,
+                      "size_bytes":  703893,
+                      "sha256":  "2490dff5d6247b9195ad6daf7213c4b32dd565b2fa2171a7f5c91710f04791ab",
+                      "downloaded_at":  "2022-09-15 23:21:48 +08:00"
+                  },
+                  {
+                      "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/原厂资料/D310T9362V1-SPEC/ST7701S_SPEC_Preliminary V0.2.pdf",
+                      "source":  "https://gitee.com/fengmoxi/tspi-d310t9362v1.git",
+                      "kind":  "display-controller-datasheet",
+                      "official":  false,
+                      "size_bytes":  3135985,
+                      "sha256":  "527eee64f2fcc6979d844849a03628f11b278d2f8f33a419514fd7ab0dd24247",
+                      "downloaded_at":  "2017-11-04 17:31:00 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/DriverAssitant_v5.11.zip",
+                      "source":  "https://www.vividunit.com/download/tools/DriverAssitant_v5.11.zip",
+                      "kind":  "rockchip-driver",
+                      "official":  false,
+                      "size_bytes":  9864755,
+                      "sha256":  "2514f022d547114571114490d6420774754a414f66064a45eade7de15b463f70",
+                      "downloaded_at":  "2026-07-19 18:05:56 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh.zip",
+                      "source":  "https://dl.radxa.com/rock_pro/tools/windows/RKDevTool_Release_v2.96_zh.zip",
+                      "kind":  "windows-flash-tool",
+                      "official":  false,
+                      "size_bytes":  2480708,
+                      "sha256":  "9778640d5f7c5aa98c1cf6413a380a74e61186c5b512bdb4fe3ac07cd8a368fb",
+                      "downloaded_at":  "2026-07-19 18:05:55 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/SDDiskTool_cn_v1.74.zip",
+                      "source":  "https://dl.radxa.com/rock_pro/tools/windows/SDDiskTool_cn_v1.74.zip",
+                      "kind":  "sd-card-tool",
+                      "official":  false,
+                      "size_bytes":  663843,
+                      "sha256":  "48c543792d051ea1c7ff3cd73c032aa6b73ab99e85d9a85a04c729348a193e3c",
+                      "downloaded_at":  "2026-07-19 18:05:54 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/platform-tools_r33.0.3-windows.zip",
+                      "source":  "https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip",
+                      "kind":  "adb-windows",
+                      "official":  true,
+                      "size_bytes":  5642796,
+                      "sha256":  "1e59afd40a74c5c0eab0a9fad3f0faf8a674267106e0b19921be9f67081808c2",
+                      "downloaded_at":  "2026-07-19 18:04:39 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/platform-tools_r33.0.3-linux.zip",
+                      "source":  "https://dl.google.com/android/repository/platform-tools_r33.0.3-linux.zip",
+                      "kind":  "adb-linux",
+                      "official":  true,
+                      "size_bytes":  7505569,
+                      "sha256":  "ab885c20f1a9cb528eb145b9208f53540efa3d26258ac3ce4363570a0846f8f7",
+                      "downloaded_at":  "2026-07-19 18:04:38 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/scrcpy-win64-v2.3.1.zip",
+                      "source":  "https://github.com/Genymobile/scrcpy/releases/download/v2.3.1/scrcpy-win64-v2.3.1.zip",
+                      "kind":  "scrcpy",
+                      "official":  true,
+                      "size_bytes":  6048800,
+                      "sha256":  "f1f78ac98214078425804e524a1bed515b9d4b8a05b78d210a4ced2b910b262d",
+                      "downloaded_at":  "2026-07-19 18:04:39 +08:00"
+                  }
+              ]
+}

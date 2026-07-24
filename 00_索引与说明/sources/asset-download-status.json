@@ -1,0 +1,296 @@
+﻿{
+    "generated_at":  "2026-07-19 15:17:54 +08:00",
+    "total":  41,
+    "downloaded":  41,
+    "skipped":  0,
+    "failed":  0,
+    "assets":  [
+                   {
+                       "url":  "https://atta.szlcsc.com/upload/public/pdf/source/20160903/1472896628181.pdf",
+                       "target":  "assets/atta.szlcsc.com/upload/public/pdf/source/20160903/1472896628181.pdf",
+                       "status":  "downloaded",
+                       "size_bytes":  180869,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/avatars/2021/9/nnSyFy3gG5tO9ptzWVIr8deACxi2EutG5O2Lvs5v.png?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/avatars/2021/9/nnSyFy3gG5tO9ptzWVIr8deACxi2EutG5O2Lvs5v.png",
+                       "status":  "downloaded",
+                       "size_bytes":  2840,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/afbf931766024be29bdeb4ac5e61fd82.jpg",
+                       "target":  "assets/image.lceda.cn/oshwhub/afbf931766024be29bdeb4ac5e61fd82.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  59654,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/1a9bfee7efe0421c9becf785a5b0ceb6.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/1a9bfee7efe0421c9becf785a5b0ceb6.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  2162,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/5ee42ac35d2c4d768fa8e8437c05adae.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/5ee42ac35d2c4d768fa8e8437c05adae.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  2938,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/6405212506984be38c38d38f1881b8e2.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/6405212506984be38c38d38f1881b8e2.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  3012,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/a8c1387b8e034b488e9349b1c90e573d.png?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/a8c1387b8e034b488e9349b1c90e573d.png",
+                       "status":  "downloaded",
+                       "size_bytes":  3052,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/b750215210ea441084bf3b1466ba2f3d.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/b750215210ea441084bf3b1466ba2f3d.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  3596,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/b9559fa74a904e8f9cbaa41fa630bfd3.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/b9559fa74a904e8f9cbaa41fa630bfd3.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  3000,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/c62d7c61ab294896883da8e510e9b712.png?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/c62d7c61ab294896883da8e510e9b712.png",
+                       "status":  "downloaded",
+                       "size_bytes":  1812,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/oshwhub/pullImage/ca38c09a2a854bfb866e69e932f10f63.jpg?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/oshwhub/pullImage/ca38c09a2a854bfb866e69e932f10f63.jpg",
+                       "status":  "downloaded",
+                       "size_bytes":  3958,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://image.lceda.cn/pullimage/icx0AddXJapD5SG3cqt6RkMWRtvNFoWfjKfI6k4B.png?x-oss-process=image/resize,w_122,h_85,m_lfit/format,webp",
+                       "target":  "assets/image.lceda.cn/pullimage/icx0AddXJapD5SG3cqt6RkMWRtvNFoWfjKfI6k4B.png",
+                       "status":  "downloaded",
+                       "size_bytes":  2574,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/documentation/gj-run-c-c-plus-program/gj-run-c-c-plus-program_20240830_190517.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/documentation/gj-run-c-c-plus-program/gj-run-c-c-plus-program_20240830_190517.png",
+                       "status":  "downloaded",
+                       "size_bytes":  43552,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/documentation/transplant-qt5/transplant-qt5_20240830_021253.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/documentation/transplant-qt5/transplant-qt5_20240830_021253.png",
+                       "status":  "downloaded",
+                       "size_bytes":  18157,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/programming-environment-setup/programming-environment-setup_20240830_164441.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/programming-environment-setup/programming-environment-setup_20240830_164441.png",
+                       "status":  "downloaded",
+                       "size_bytes":  7214,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/sdk-compile/sdk-compile_20240830_170300.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/sdk-compile/sdk-compile_20240830_170300.png",
+                       "status":  "downloaded",
+                       "size_bytes":  15618,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation/android-13-sdk-compilation_20260402_154224.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation/android-13-sdk-compilation_20260402_154224.png",
+                       "status":  "downloaded",
+                       "size_bytes":  116674,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation/android-13-sdk-compilation_20260402_154817.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation/android-13-sdk-compilation_20260402_154817.png",
+                       "status":  "downloaded",
+                       "size_bytes":  11225,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation/android-sdk-compilation_20240829_043857.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation/android-sdk-compilation_20240829_043857.png",
+                       "status":  "downloaded",
+                       "size_bytes":  28741,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation/android-sdk-compilation_20240829_113603.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation/android-sdk-compilation_20240829_113603.png",
+                       "status":  "downloaded",
+                       "size_bytes":  7577,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_000624.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_000624.png",
+                       "status":  "downloaded",
+                       "size_bytes":  69195,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_013927.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_013927.png",
+                       "status":  "downloaded",
+                       "size_bytes":  284175,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_092922.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_092922.png",
+                       "status":  "downloaded",
+                       "size_bytes":  204621,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_102133.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_102133.png",
+                       "status":  "downloaded",
+                       "size_bytes":  161084,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_104132.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/android-system-usage/android-system-usage_20240829_104132.png",
+                       "status":  "downloaded",
+                       "size_bytes":  102778,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/img-download/img-download_20240829_090938.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/system-usage/img-download/img-download_20240829_090938.png",
+                       "status":  "downloaded",
+                       "size_bytes":  94627,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192302.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192302.png",
+                       "status":  "downloaded",
+                       "size_bytes":  527213,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192305.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192305.png",
+                       "status":  "downloaded",
+                       "size_bytes":  376909,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192309.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192309.png",
+                       "status":  "downloaded",
+                       "size_bytes":  99265,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192312.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192312.png",
+                       "status":  "downloaded",
+                       "size_bytes":  234293,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192348.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192348.png",
+                       "status":  "downloaded",
+                       "size_bytes":  48207,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192437.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_192437.png",
+                       "status":  "downloaded",
+                       "size_bytes":  28741,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193213.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193213.png",
+                       "status":  "downloaded",
+                       "size_bytes":  47090,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193241.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193241.png",
+                       "status":  "downloaded",
+                       "size_bytes":  249733,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193302.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193302.png",
+                       "status":  "downloaded",
+                       "size_bytes":  45349,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193321.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193321.png",
+                       "status":  "downloaded",
+                       "size_bytes":  27508,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193411.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193411.png",
+                       "status":  "downloaded",
+                       "size_bytes":  482264,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193437.png",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193437.png",
+                       "status":  "downloaded",
+                       "size_bytes":  207814,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193506.gif",
+                       "target":  "assets/wiki.lckfb.com/storage/images/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use/scrcpy-tool-use_20240829_193506.gif",
+                       "status":  "downloaded",
+                       "size_bytes":  1372097,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/logo/logo_cn_dark.svg",
+                       "target":  "assets/wiki.lckfb.com/storage/logo/logo_cn_dark.svg",
+                       "status":  "downloaded",
+                       "size_bytes":  10864,
+                       "message":  "下载成功"
+                   },
+                   {
+                       "url":  "https://wiki.lckfb.com/storage/logo/logo_cn_light.svg",
+                       "target":  "assets/wiki.lckfb.com/storage/logo/logo_cn_light.svg",
+                       "status":  "downloaded",
+                       "size_bytes":  10864,
+                       "message":  "下载成功"
+                   }
+               ]
+}

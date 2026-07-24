@@ -1,0 +1,15 @@
+﻿# This repository stores the learning notes and lightweight scripts.
+# Large downloaded/vendor materials remain local and are not pushed to GitHub.
+/网盘资料/
+/01_Wiki离线文档/
+/02_开发板硬件/
+/03_3.1寸MIPI屏/
+/04_SDK与镜像/
+/06_项目案例/
+/assets/
+
+# Local tool archives/binaries; keep small documentation and helper scripts.
+/05_开发工具/*.zip
+/05_开发工具/*.exe
+/05_开发工具/*_Release_v*/
+/05_开发工具/rkdeveloptool/

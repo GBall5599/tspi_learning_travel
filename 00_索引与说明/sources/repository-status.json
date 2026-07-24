@@ -1,0 +1,61 @@
+﻿{
+    "generated_at":  "2026-07-19 18:13:53 +08:00",
+    "repositories":  [
+                         {
+                             "url":  "https://gitee.com/fengmoxi/tspi-d310t9362v1.git",
+                             "target":  "03_3.1寸MIPI屏/TSPI-D310T9362V1",
+                             "status":  "downloaded",
+                             "mode":  "git clone --depth 1 + release assets",
+                             "commit":  "7052755f4166485d0522b792da52468cdfcf9a64",
+                             "message":  "规格书、补丁、触摸驱动和 Linux/Android boot 镜像已取得"
+                         },
+                         {
+                             "url":  "https://github.com/CmST0us/tspi-linux-sdk.git",
+                             "target":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-main.zip",
+                             "status":  "downloaded_archive",
+                             "mode":  "GitHub codeload ZIP",
+                             "commit":  "caede71c840f6ac8579c6e87519f0e983778976b",
+                             "message":  "Windows AUX 保留名导致无法在 NTFS 检出，改存完整 ZIP"
+                         },
+                         {
+                             "url":  "https://github.com/CmST0us/tspi-linux-sdk-ubuntu-rootfs.git",
+                             "target":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-ubuntu-rootfs",
+                             "status":  "downloaded",
+                             "mode":  "git clone --depth 1 + git lfs",
+                             "commit":  "f353a4c8c9c91271c7a40093a694d60e050a87b2",
+                             "message":  "两个 rootfs LFS 文件已完整下载"
+                         },
+                         {
+                             "url":  "https://github.com/TaishanPi/manifests.git",
+                             "target":  "04_SDK与镜像/公开仓库/TaishanPi-manifests",
+                             "status":  "downloaded",
+                             "mode":  "git clone --depth 1",
+                             "commit":  "78e00d1ca9f60e2641071c8bb490d06be5614859",
+                             "message":  "成功"
+                         },
+                         {
+                             "url":  "https://github.com/CmST0us/meta-tspi.git",
+                             "target":  "04_SDK与镜像/公开仓库/meta-tspi",
+                             "status":  "downloaded",
+                             "mode":  "git clone --depth 1",
+                             "commit":  "b4393523c8a0547e44133391f863db2881cad2c8",
+                             "message":  "Yocto BSP layer"
+                         },
+                         {
+                             "url":  "https://github.com/rockchip-linux/rkdeveloptool.git",
+                             "target":  "05_开发工具/rkdeveloptool",
+                             "status":  "downloaded",
+                             "mode":  "git clone --depth 1",
+                             "commit":  "304f073752fd25c854e1bcf05d8e7f925b1f4e14",
+                             "message":  "Rockchip 官方开源烧录工具"
+                         },
+                         {
+                             "url":  "https://gitee.com/LJ96324/rk3566.git",
+                             "target":  "06_项目案例/公开仓库/rk3566-examples",
+                             "status":  "failed",
+                             "mode":  "git clone --depth 1",
+                             "commit":  "",
+                             "message":  "Gitee clone 超时，已清理不完整目录"
+                         }
+                     ]
+}

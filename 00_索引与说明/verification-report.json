@@ -1,0 +1,548 @@
+﻿{
+    "verified_at":  "2026-07-19 18:16:15 +08:00",
+    "source_total":  53,
+    "source_ok":  53,
+    "source_missing":  0,
+    "public_missing":  0,
+    "local_asset_references":  143,
+    "local_asset_missing":  0,
+    "partial_files":  0,
+    "taishanpi_manifest_present":  true,
+    "downloaded_materials_checked":  13,
+    "downloaded_materials_bad":  0,
+    "source_checks":  [
+                          {
+                              "target":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  15730,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/buildroot-add-ffmpeg.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/extraction-board-system.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  9207,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/extraction-board-system.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-8g-memory-compiling-android-firmware.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  12489,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-8g-memory-compiling-android-firmware.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  12304,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-opencv-face-recognition-haar-lpbh.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  15120,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-opencv-face-recognition-haar-lpbh.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-porting-raspberrypi-to-opencv.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  12151,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-porting-raspberrypi-to-opencv.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-rk3566-buildroot-add-qt.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  3744,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rk3566-buildroot-add-qt.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-rknn-mobilenet-v3-use.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  6806,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-rknn-mobilenet-v3-use.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-run-c-c-plus-program.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  10697,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-run-c-c-plus-program.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-ssd1315-oled-module.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  11893,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ssd1315-oled-module.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-tspi-driver-video-tutorial.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  8392,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-tspi-driver-video-tutorial.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-ubuntu-22-04-lts-compile.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  9796,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-22-04-lts-compile.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/gj-ubuntu-install-opencv.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  8727,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/gj-ubuntu-install-opencv.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/io-allocation-table.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  7083,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/io-allocation-table.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/mipi-4inch-long-screen-adapter-board.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  9465,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/mipi-4inch-long-screen-adapter-board.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/spi-to-can.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  14647,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/spi-to-can.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/sqlite3-database-environment-setup.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  10637,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/sqlite3-database-environment-setup.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/transplant-qt5.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  22146,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/transplant-qt5.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/documentation/usb-share-network-rndis.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  10967,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/documentation/usb-share-network-rndis.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/download-center.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  7037,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/download-center.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/question/miniLoader.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  12230,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/question/miniLoader.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/quick-start/README.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  8415,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/quick-start/"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/android-13-sdk-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  40288,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-13-sdk-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/android-sdk-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  19966,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/android-sdk-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/docker-compiling-environment.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  14322,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/docker-compiling-environment.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/kernel6-1-linux-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  20903,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/kernel6-1-linux-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/linux-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  21503,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/linux-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/openharmony-sdk-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  11520,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openharmony-sdk-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/openkylin-sdk-compilation.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  36127,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/openkylin-sdk-compilation.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/virtualBox-ubuntu-compiling-environment.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  9258,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/virtualBox-ubuntu-compiling-environment.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/sdk-compilation/wsl2-install-ubuntu.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  13272,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/sdk-compilation/wsl2-install-ubuntu.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/system-usage/android-system-usage.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  47574,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/android-system-usage.html"
+                          },
+                          {
+                              "target":  "01_Wiki离线文档/system-usage/buildroot-system-usage.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  103997,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/system-usage/buildroot-system-usage.html"
+                          },
+                          {
+                              "target":  "02_开发板硬件/oshwhub/泰山派开源硬件项目.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  39645,
+                              "ok":  true,
+                              "url":  "https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-tai-shan-pai-kai-fa-ban"
+                          },
+                          {
+                              "target":  "02_开发板硬件/wiki/jlceda-project-file-opening.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  7629,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/jlceda-project-file-opening.html"
+                          },
+                          {
+                              "target":  "02_开发板硬件/wiki/open-source-hardware.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  2525,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/open-source-hardware/"
+                          },
+                          {
+                              "target":  "02_开发板硬件/wiki/README.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  6629,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/3.1寸屏幕扩展板.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  3365,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/lushan-pi-k230/open-source-hardware/lckfb-mipi-3.1inch-screen.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/device-tree.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  40907,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/device-tree.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/linux-common-commands.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  13841,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/linux-common-commands.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/mobile-phone-integrated-project.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  108863,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/mobile-phone-integrated-project.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/programming-environment-setup.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  13256,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/programming-environment-setup.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/screen-selection-debugging.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  108858,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/screen-selection-debugging.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/sdk-compile.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  33347,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/sdk-compile.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/泰山派胖妞手机项目/touch-drive.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  74789,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/fat-little-cell-phone/touch-drive.html"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/需登录下载/3.1寸屏EDA工程.txt",
+                              "access":  "manual_index",
+                              "exists":  true,
+                              "size_bytes":  302,
+                              "ok":  true,
+                              "url":  "https://pan.baidu.com/s/18jLiGxKXC-NHXBkfe1DMqg?pwd=LJPI"
+                          },
+                          {
+                              "target":  "03_3.1寸MIPI屏/需登录下载/6P与31P排线工程.txt",
+                              "access":  "manual_index",
+                              "exists":  true,
+                              "size_bytes":  312,
+                              "ok":  true,
+                              "url":  "https://pan.baidu.com/s/1FPA_99J04nlv-28y95Kj8w?pwd=LJPI"
+                          },
+                          {
+                              "target":  "04_SDK与镜像/wiki/img-download.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  12382,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/img-download/img-download.html"
+                          },
+                          {
+                              "target":  "04_SDK与镜像/需登录下载/百度网盘总资料.txt",
+                              "access":  "manual_index",
+                              "exists":  true,
+                              "size_bytes":  294,
+                              "ok":  true,
+                              "url":  "https://pan.baidu.com/s/5m1jN3xFWAu_8qbUbidNeMw"
+                          },
+                          {
+                              "target":  "05_开发工具/wiki/adb-install-use.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  80813,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/adb-install-use.html"
+                          },
+                          {
+                              "target":  "05_开发工具/wiki/debug-tools-use.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  11912,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/debug-tools-use.html"
+                          },
+                          {
+                              "target":  "05_开发工具/wiki/scrcpy-tool-use.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  9268,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/tool-use/scrcpy-tool-use.html"
+                          },
+                          {
+                              "target":  "06_项目案例/open-source-project-recommendations.md",
+                              "access":  "public",
+                              "exists":  true,
+                              "size_bytes":  6823,
+                              "ok":  true,
+                              "url":  "https://wiki.lckfb.com/zh-hans/tspi-rk3566/project-case/open-source-project-recommendations.html"
+                          }
+                      ],
+    "missing_asset_checks":  [
+
+                             ],
+    "downloaded_material_checks":  [
+                                       {
+                                           "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-main.zip",
+                                           "exists":  true,
+                                           "size_bytes":  1117667369,
+                                           "size_ok":  true,
+                                           "sha256":  "50b027977504064dac9fc676258b843c63eb9f07e3e8bc7beab24f19966bba34",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-ubuntu-rootfs/ubuntu.tar.gz",
+                                           "exists":  true,
+                                           "size_bytes":  1617032992,
+                                           "size_ok":  true,
+                                           "sha256":  "81ba1db5572cd87caa7919e70364b73226efafec9653835a5b0157efdb95c683",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "04_SDK与镜像/Linux-SDK/tspi-linux-sdk-ubuntu-rootfs/ubuntu_panfrost.tar.gz",
+                                           "exists":  true,
+                                           "size_bytes":  1104724207,
+                                           "size_ok":  true,
+                                           "sha256":  "9841498c1841e9225daca9cc73c398af3e1a77d9a6f56cc26241ba865734a942",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/boot-linux.img",
+                                           "exists":  true,
+                                           "size_bytes":  24054272,
+                                           "size_ok":  true,
+                                           "sha256":  "373822f412e5b123f924361e54bdaa68ff4c35db41d175bd4178b044ee48fcf4",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/boot-android.img",
+                                           "exists":  true,
+                                           "size_bytes":  33648640,
+                                           "size_ok":  true,
+                                           "sha256":  "1cdc2c889226e5a4cecdb1eb6ff2e8c0d00ae14aec1d34fbfda16a492c539cad",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/原厂资料/D310T9362V1-SPEC/D310T9362V1 SPEC.pdf",
+                                           "exists":  true,
+                                           "size_bytes":  703893,
+                                           "size_ok":  true,
+                                           "sha256":  "2490dff5d6247b9195ad6daf7213c4b32dd565b2fa2171a7f5c91710f04791ab",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "03_3.1寸MIPI屏/TSPI-D310T9362V1/原厂资料/D310T9362V1-SPEC/ST7701S_SPEC_Preliminary V0.2.pdf",
+                                           "exists":  true,
+                                           "size_bytes":  3135985,
+                                           "size_ok":  true,
+                                           "sha256":  "527eee64f2fcc6979d844849a03628f11b278d2f8f33a419514fd7ab0dd24247",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/DriverAssitant_v5.11.zip",
+                                           "exists":  true,
+                                           "size_bytes":  9864755,
+                                           "size_ok":  true,
+                                           "sha256":  "2514f022d547114571114490d6420774754a414f66064a45eade7de15b463f70",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/RKDevTool_Release_v2.96_zh.zip",
+                                           "exists":  true,
+                                           "size_bytes":  2480708,
+                                           "size_ok":  true,
+                                           "sha256":  "9778640d5f7c5aa98c1cf6413a380a74e61186c5b512bdb4fe3ac07cd8a368fb",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/SDDiskTool_cn_v1.74.zip",
+                                           "exists":  true,
+                                           "size_bytes":  663843,
+                                           "size_ok":  true,
+                                           "sha256":  "48c543792d051ea1c7ff3cd73c032aa6b73ab99e85d9a85a04c729348a193e3c",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/platform-tools_r33.0.3-windows.zip",
+                                           "exists":  true,
+                                           "size_bytes":  5642796,
+                                           "size_ok":  true,
+                                           "sha256":  "1e59afd40a74c5c0eab0a9fad3f0faf8a674267106e0b19921be9f67081808c2",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/platform-tools_r33.0.3-linux.zip",
+                                           "exists":  true,
+                                           "size_bytes":  7505569,
+                                           "size_ok":  true,
+                                           "sha256":  "ab885c20f1a9cb528eb145b9208f53540efa3d26258ac3ce4363570a0846f8f7",
+                                           "hash_ok":  true
+                                       },
+                                       {
+                                           "path":  "05_开发工具/scrcpy-win64-v2.3.1.zip",
+                                           "exists":  true,
+                                           "size_bytes":  6048800,
+                                           "size_ok":  true,
+                                           "sha256":  "f1f78ac98214078425804e524a1bed515b9d4b8a05b78d210a4ced2b910b262d",
+                                           "hash_ok":  true
+                                       }
+                                   ]
+}
