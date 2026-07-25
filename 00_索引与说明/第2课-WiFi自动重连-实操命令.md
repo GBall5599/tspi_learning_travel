@@ -168,3 +168,89 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File "E:\Embed_Proj\tspi_rk35
 ```
 
 今天没有实际切换到另一个 Wi-Fi，只完成了切换流程的理解。
+
+---
+
+## 7. 2026-07-25 更换 Wi-Fi 环境复测
+
+以下命令均建议在串口中**一条一条执行**，不要在 MobaXterm 中一次粘贴多行。
+
+### 7.1 备份配置
+
+```sh
+cp /etc/wpa_supplicant.conf /etc/wpa_supplicant.conf.bak
+```
+
+### 7.2 编辑新 Wi-Fi
+
+```sh
+vi /etc/wpa_supplicant.conf
+```
+
+只修改 `ssid` 和 `psk` 的内容，保存退出：
+
+```text
+:wq
+```
+
+密码不要发到聊天或写入公开文档。
+
+### 7.3 保存并切换连接
+
+```sh
+sync
+```
+
+```sh
+killall wpa_supplicant 2>/dev/null
+```
+
+```sh
+killall udhcpc 2>/dev/null
+```
+
+```sh
+/etc/init.d/S45wifi-auto start
+```
+
+### 7.4 检查状态
+
+```sh
+ip addr show wlan0
+```
+
+```sh
+ip route
+```
+
+```sh
+ping -c 3 192.168.1.1
+```
+
+如果出现 `NO-CARRIER` 且 RSSI 很低，先把开发板移近路由器，再检查 `ip addr show wlan0`。本次曾出现 RSSI `-98`，移近路由器后恢复正常。
+
+### 7.5 SSH 和重启验证
+
+电脑端：
+
+```powershell
+ssh root@192.168.1.8
+```
+
+SSH 登录成功后：
+
+```sh
+sync
+```
+
+```sh
+reboot
+```
+
+重启后在串口检查：
+
+```sh
+ip addr show wlan0
+```
+
+确认仍有 `inet 192.168.1.8/24` 后，再次从电脑 SSH 登录。

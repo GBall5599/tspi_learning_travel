@@ -145,3 +145,31 @@ reboot
 
 注意：本课完成的是“开机自动连接”；实际切换到另一个热点的操作流程已理解，但今天没有改变当前热点配置。
 
+
+---
+
+## 8. 2026-07-25 更换环境后的复测
+
+本课原先在 Wi-Fi `ccccc2.4g` 环境完成。2026-07-25 更换网络环境后，使用同一套持久化机制重新验证：
+
+```text
+新 SSID：ChinaNet-gsZY
+最终 IP：192.168.1.8/24
+网关：192.168.1.1
+```
+
+复测过程：
+
+1. 备份 `/etc/wpa_supplicant.conf`；
+2. 用 `vi` 修改 `ssid` 和 `psk`；
+3. 执行 `sync`；
+4. 停止旧的 `wpa_supplicant` 和 `udhcpc`；
+5. 执行 `/etc/init.d/S45wifi-auto start`；
+6. 将开发板移近路由器后获得 `192.168.1.8`；
+7. Ping 网关 3/3 成功；
+8. MobaXterm SSH 登录成功；
+9. `reboot` 后自动联网并再次 SSH 登录成功。
+
+这说明 `S45wifi-auto` 不是只适用于某一个旧 SSID，而是可以配合新的 `/etc/wpa_supplicant.conf` 工作。
+
+注意：切换 Wi-Fi 时优先使用串口，因为 SSH 会因网络切换而断开。
