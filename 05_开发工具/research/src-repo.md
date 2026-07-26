@@ -1,0 +1,71 @@
+# repo
+
+Repo is a tool built on top of Git. Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow. Repo is not meant to replace Git, only to make it easier to work with Git. The repo command is an executable Python script that you can put anywhere in your path.
+
+* Homepage: <https://gerrit.googlesource.com/git-repo/>
+* Mailing list: [repo-discuss on Google Groups](https://groups.google.com/forum/#!forum/repo-discuss)
+* Bug reports: <https://issues.gerritcodereview.com/issues?q=is:open%20componentid:1370071>
+* Source: <https://gerrit.googlesource.com/git-repo/>
+* Overview: <https://source.android.com/source/developing.html>
+* Docs: <https://source.android.com/source/using-repo.html>
+* [repo Manifest Format](docs/manifest-format.md)
+* [repo Hooks](docs/repo-hooks.md)
+* [Contributing](CONTRIBUTING.md)
+* Running Repo in [Microsoft Windows](docs/windows.md)
+* GitHub mirror: <https://github.com/GerritCodeReview/git-repo>
+* Postsubmit tests: <https://github.com/GerritCodeReview/git-repo/actions>
+
+## Contact
+
+Please use the [repo-discuss](https://groups.google.com/forum/#!forum/repo-discuss) mailing list or [issue tracker](https://issues.gerritcodereview.com/issues?q=is:open%20componentid:1370071) for questions.
+
+You can [file a new bug report](https://issues.gerritcodereview.com/issues/new?component=1370071) under the “repo” component.
+
+Please do not e-mail individual developers for support. They do not have the bandwidth for it, and often times questions have already been asked on [repo-discuss](https://groups.google.com/forum/#!forum/repo-discuss) or bugs posted to the [issue tracker](https://issues.gerritcodereview.com/issues?q=is:open%20componentid:1370071). So please search those sites first.
+
+## Install
+
+Many distros include repo, so you might be able to install from there.
+
+```
+# Debian/Ubuntu.  $ sudo apt - get install repo # Gentoo.  $ sudo emerge dev - vcs/ repo 
+```
+
+You can install it manually as well as it's a single script.
+
+```
+$ mkdir - p ~/. bin $ PATH ="${HOME}/.bin:${PATH}"  $ curl https:// storage. googleapis. com/ git - repo - downloads/ repo >  ~/. bin/ repo $ chmod a + rx ~/. bin/ repo 
+```
+
+## Shell Completion
+
+Repo includes completion scripts for Bash and Zsh.
+
+### Bash
+
+To enable completion in Bash, source `completion.bash` in your `~/.bashrc`:
+
+```
+source / path/ to/ git - repo/ completion. bash 
+```
+
+### Zsh
+
+To enable completion in Zsh, you can either:
+
+1. Copy or symlink `completion.zsh` to a file named `_repo` in a directory in your `$fpath`:
+
+   ```
+   mkdir - p ~/. zsh/ completion # You can copy the file:  cp / path/ to/ git - repo/ completion. zsh ~/. zsh/ completion/ _repo # Or symlink it:  ln - s / path/ to/ git - repo/ completion. zsh ~/. zsh/ completion/ _repo 
+   ```
+
+   Then add that directory to your `fpath` in `~/.zshrc` before `compinit`:
+
+   ```
+   fpath =(~/.zsh/ completion $fpath)  autoload - Uz  compinit compinit 
+   ```
+2. Or source the file directly and call `compdef` in your `~/.zshrc`:
+
+   ```
+   source / path/ to/ git - repo/ completion. zsh compdef _repo repo 
+   ```

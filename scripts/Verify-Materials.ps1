@@ -17,7 +17,7 @@ $publicMissing = @($missing | Where-Object access -eq 'public')
 $assetLinks = [System.Collections.Generic.List[object]]::new()
 foreach ($md in Get-ChildItem -LiteralPath $Root -File -Recurse -Filter *.md) {
     $text = Get-Content -LiteralPath $md.FullName -Raw -Encoding UTF8
-    foreach ($m in [regex]::Matches($text, '(?<path>(?:\.\./)+assets/[^\s<>)\]"'']+|assets/[^\s<>)\]"'']+)')) {
+    foreach ($m in [regex]::Matches($text, '(?<path>(?:\.\./)+assets/[^\s<>)\]"'']+|(?<![A-Za-z0-9_:/.-])assets/[^\s<>)\]"'']+)')) {
         $raw = $m.Groups['path'].Value.TrimEnd('.',',',';',':')
         $candidate = Join-Path (Split-Path -Parent $md.FullName) ($raw -replace '/', '\')
         try { $resolved = [IO.Path]::GetFullPath($candidate) } catch { $resolved = $candidate }
@@ -70,3 +70,4 @@ if ($publicMissing.Count -gt 0 -or $missingAssets.Count -gt 0 -or $partFiles.Cou
     if ($badDownloads.Count) { $badDownloads | Format-Table -Wrap -AutoSize }
     exit 2
 }
+

@@ -13,3 +13,6 @@
 /05_开发工具/*.exe
 /05_开发工具/*_Release_v*/
 /05_开发工具/rkdeveloptool/
+
+# Accidental scratch file created during local note editing.
+/string

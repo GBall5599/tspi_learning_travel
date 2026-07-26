@@ -11,7 +11,8 @@ foreach ($s in $sources) { $sourceByTarget[$s.target.Replace('\','/')] = $s }
 
 $excluded = @(
     '00_索引与说明/manifest.csv',
-    '00_索引与说明/manifest.json'
+    '00_索引与说明/manifest.json',
+    'string'
 )
 $rows = foreach ($file in Get-ChildItem -LiteralPath $Root -File -Recurse | Where-Object { $_.FullName -notlike '*\.git\*' } | Sort-Object FullName) {
     $relative = $file.FullName.Substring($Root.TrimEnd('\').Length + 1).Replace('\','/')
@@ -42,6 +43,7 @@ $payload = [pscustomobject]@{
 $payload | ConvertTo-Json -Depth 6 | Set-Content -LiteralPath $manifestJson -Encoding UTF8
 @($rows) | Export-Csv -LiteralPath $manifestCsv -NoTypeInformation -Encoding UTF8
 $payload | Select-Object generated_at,file_count,total_size_bytes | Format-List
+
 
 
 

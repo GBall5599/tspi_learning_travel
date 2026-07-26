@@ -1,9 +1,19 @@
 ﻿{
-    "generated_at":  "2026-07-19 18:16:29 +08:00",
+    "generated_at":  "2026-07-26 22:53:36 +08:00",
     "root":  "E:\\Embed_Proj\\tspi_rk3566",
-    "file_count":  868,
-    "total_size_bytes":  3953228660,
+    "file_count":  1051,
+    "total_size_bytes":  36540301091,
     "files":  [
+                  {
+                      "path":  ".gitignore",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  548,
+                      "sha256":  "d19f4e18b5f7ca5e2debb82158970c022f8c265e4495deaebe9ca8407aceafc5",
+                      "modified_at":  "2026-07-26 22:44:54 +08:00"
+                  },
                   {
                       "path":  "00_索引与说明/sources/asset-download-status.json",
                       "category":  "local",
@@ -22,7 +32,7 @@
                       "status":  "generated",
                       "size_bytes":  296216,
                       "sha256":  "80d69bbbfead0e4848be714f564ac1f795c0dcfea84f5b87b8fc34cdca9006d5",
-                      "modified_at":  "2026-07-19 17:48:30 +08:00"
+                      "modified_at":  "2026-07-23 16:07:39 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/sources/baidu-public-index.json",
@@ -31,8 +41,8 @@
                       "access":  "local",
                       "status":  "generated",
                       "size_bytes":  633124,
-                      "sha256":  "57b3dcd0cdf6f8672bb7a30c8a4772f99dbe57c49785911ad59165d7598762e6",
-                      "modified_at":  "2026-07-19 17:48:29 +08:00"
+                      "sha256":  "5b46bba30713ac5bb4b93706558dd7411eb78c9ed1a8da2f09750c3817119df0",
+                      "modified_at":  "2026-07-23 16:07:39 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/sources/downloaded-materials.json",
@@ -75,14 +85,164 @@
                       "modified_at":  "2026-07-19 15:30:47 +08:00"
                   },
                   {
+                      "path":  "00_索引与说明/SSH第一课-自己验证系统状态.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3215,
+                      "sha256":  "ea8d5a0f30b621857064021a930d6941f3bb2c966ddbb7b5a77c25e9c346e0da",
+                      "modified_at":  "2026-07-24 21:14:18 +08:00"
+                  },
+                  {
                       "path":  "00_索引与说明/verification-report.json",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
                       "size_bytes":  33817,
-                      "sha256":  "30c127ad926f625efbf9682115a7be2cec62f2b2c47135978d9c8d6416490a38",
-                      "modified_at":  "2026-07-19 18:16:15 +08:00"
+                      "sha256":  "a348ce9758ee31ee94e4a063088b6b007428182acc12611b6d39b858ab8f361c",
+                      "modified_at":  "2026-07-26 22:44:32 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/常用命令到底在干什么.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  10550,
+                      "sha256":  "9983c4bfcd2439761cd9ec8225d95fe9b4e073403ec66937b6203ea0b20b21c7",
+                      "modified_at":  "2026-07-25 20:36:25 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/串口工具使用指南.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  8385,
+                      "sha256":  "03882a80c66eec68963c9cc68591926d89213ec166de169d74a599444200cb63",
+                      "modified_at":  "2026-07-24 21:14:18 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/当前网盘下载清单.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3736,
+                      "sha256":  "31733de5c4569dcc3cfc7400fb3efdf263c4d259065b2c48b3e90659f24fcd26",
+                      "modified_at":  "2026-07-26 22:38:20 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第2课-WiFi开机自动重连.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4142,
+                      "sha256":  "8ba39d55ac8474beb245fb2b474d7036b5b5e17cf72fd5cdf567dbf28aff5648",
+                      "modified_at":  "2026-07-25 20:36:25 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第2课-WiFi自动重连-实操命令.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6300,
+                      "sha256":  "7ac45ba3fc015e0c4769e99985cb2d48a334022175c4b156a18f7450c923b6e4",
+                      "modified_at":  "2026-07-25 20:36:25 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第3课-第一个用户态程序.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3972,
+                      "sha256":  "3f00603541644780cf7142c2a0adb034a1e534f17b0cff331536adb47559386f",
+                      "modified_at":  "2026-07-25 20:18:53 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第3课-实操命令.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2127,
+                      "sha256":  "d2a9904d042c034ffcdede133c34ab1b548b5d5bd805dae93204d9cb2ef4d6c1",
+                      "modified_at":  "2026-07-25 20:18:53 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第4课-实操命令.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1190,
+                      "sha256":  "8c2ff87cc4ea256e568e5938c2461470541141e2c577f450f877b708a8a7fcaa",
+                      "modified_at":  "2026-07-25 21:54:02 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第4课-文件权限与持久化.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3307,
+                      "sha256":  "4e6a3df3a5adae888ae59944e63b7a4343aaf9ea89f73ade954d2a4a730fb194",
+                      "modified_at":  "2026-07-25 21:54:02 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第5课-GPIO按键LED入门.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6240,
+                      "sha256":  "064c332c5b84b8395bd82517d6a09d6fd7f46c350c873f5a05e46f8e8f2e890f",
+                      "modified_at":  "2026-07-26 22:02:04 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第5课-实操命令.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2190,
+                      "sha256":  "654fa71341314f7aaa9543c25a1154f09448c8be4ff850f090516afe307b2475",
+                      "modified_at":  "2026-07-26 22:02:04 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/分步下载计划.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  17418,
+                      "sha256":  "482ba869cb1f19fcd35e506cabc5ca23f24787ea9b6f2e497e32065ddf06f605",
+                      "modified_at":  "2026-07-26 22:40:34 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/启动流程-从通电到联网.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  12086,
+                      "sha256":  "59e49b185ae96c066057c582dfe916ba0490ab6289e33cef84aad89113b60727",
+                      "modified_at":  "2026-07-23 23:56:23 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/网络基础补充说明.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  5980,
+                      "sha256":  "91f1fdab277eb2d6a99b51741090ac1385252fac12249a756432e849705dc423",
+                      "modified_at":  "2026-07-24 11:30:44 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/未下载资料状态.md",
@@ -90,9 +250,19 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  1731,
-                      "sha256":  "5f1c308ea3b3146432cce6541958fcf9354a6ea43df00257ea0afc3ca4af3906",
-                      "modified_at":  "2026-07-19 18:11:08 +08:00"
+                      "size_bytes":  2147,
+                      "sha256":  "4d46c3ebd1805564eeca8c07046b01e1a05a4c1e6ba3a51cb6ff3cabfd95bc69",
+                      "modified_at":  "2026-07-26 22:38:20 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/下一步学习计划.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4327,
+                      "sha256":  "ae6986ffd4e04b0ce732669bf38f7152791b30d936d7e42c65ffbc5e3b545e69",
+                      "modified_at":  "2026-07-26 22:38:54 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/需登录下载说明.md",
@@ -105,14 +275,64 @@
                       "modified_at":  "2026-07-19 15:07:21 +08:00"
                   },
                   {
+                      "path":  "00_索引与说明/学习记录/2026-07-24-第2课学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4429,
+                      "sha256":  "3c494ee363cd46165bc633dc71f7f86a376b2bcac0d36b0387539828d5266002",
+                      "modified_at":  "2026-07-24 21:14:18 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-25-第3课学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4093,
+                      "sha256":  "3a2da73a2d0330b9dc4c55c1686f574e4d572fe338cfe974d588d99697ca7c61",
+                      "modified_at":  "2026-07-25 20:18:53 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-25-第4课学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1869,
+                      "sha256":  "26dcf02ded3111dad4618634f4cb9f6652c7c1c4cb83977bad8f1f2b7d2a5819",
+                      "modified_at":  "2026-07-25 21:54:02 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-26-第5课学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3013,
+                      "sha256":  "02c3445be0ce8ebc83a7c0c8aeed875f8f411387ba2bdc5ee32571867fb3c8f3",
+                      "modified_at":  "2026-07-26 22:02:04 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习进度总览.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  12538,
+                      "sha256":  "7b09c819d5d969fe822447f5ebb4dc2840a381d69f6c2b5d88b3dd90343db771",
+                      "modified_at":  "2026-07-26 22:40:34 +08:00"
+                  },
+                  {
                       "path":  "00_索引与说明/学习路线.md",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  1503,
-                      "sha256":  "d5b2ee3c460db22ceaf2baad2137aa9182dffbac6d002a35ead7b97a07ca90d4",
-                      "modified_at":  "2026-07-19 15:24:40 +08:00"
+                      "size_bytes":  3674,
+                      "sha256":  "6a8251153550a1340d26811d409928c666c463a3f078c9e2d681df83941333a7",
+                      "modified_at":  "2026-07-26 22:38:54 +08:00"
                   },
                   {
                       "path":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
@@ -7815,6 +8035,166 @@
                       "modified_at":  "2026-07-19 18:11:08 +08:00"
                   },
                   {
+                      "path":  "05_开发工具/research/android-tools.json",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2733,
+                      "sha256":  "29115c82bc0337a3b6536efc7132aeec2c74ea9bf60734e406c5335938dec06c",
+                      "modified_at":  "2026-07-25 10:12:22 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/mobaxterm.json",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2721,
+                      "sha256":  "03a15d93dae5a2ea1b104dd99f1da867c02f10869b3d93e6d42f9e20a759d251",
+                      "modified_at":  "2026-07-25 10:12:18 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/rockchip.json",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2717,
+                      "sha256":  "ac4149408dc509e051b5b736d5c94b5cc51a019b90198b475a13ceaef2faf6cd",
+                      "modified_at":  "2026-07-25 10:12:11 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/scrcpy.json",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2727,
+                      "sha256":  "a6d1a5d123c1066facf962a3ce219f062200c13b4b7bd0e180dfe3d29a4e0bb1",
+                      "modified_at":  "2026-07-25 10:12:31 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-7zip.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4030,
+                      "sha256":  "3f0f0d0b0bd9027345e5702ac2651446d6c5c29ff8c938558dcf81536055e27b",
+                      "modified_at":  "2026-07-25 10:13:47 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-adb.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  141198,
+                      "sha256":  "c8ecf76deb3de3d1f989799017e7a6e9f8c678b111fc17286a4df0ae372df91c",
+                      "modified_at":  "2026-07-25 10:13:02 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-ch340.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6001,
+                      "sha256":  "cd8c7b3bb164cf3fe7ed0edde2e161bd05d2c7d50aa478772639a2b8bc546938",
+                      "modified_at":  "2026-07-25 10:13:41 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-mobaxterm.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  80484,
+                      "sha256":  "bb540a5b274d92be2e012b81c7699393f1f0bfcd7db9c9dbba82820a4ec4ad48",
+                      "modified_at":  "2026-07-25 10:12:57 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-platform-tools.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  9265,
+                      "sha256":  "d8cbe3ab00fa7c0073f205c31b8900dae2604e1b8c4cf259d25c1ea8dbc5d19f",
+                      "modified_at":  "2026-07-25 10:12:59 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-repo.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3224,
+                      "sha256":  "de2c3ac1af3a257ea9b754a29c7a41e5de1640d8e1cea8cc073184192a1eb148",
+                      "modified_at":  "2026-07-25 10:13:07 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-rkdeveloptool.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  9372,
+                      "sha256":  "4a49e0556c41068e9f1b6b41db3948620a243ccf115ac3eebd96a4721a6f0051",
+                      "modified_at":  "2026-07-25 10:12:54 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-rndis.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1823,
+                      "sha256":  "45e8cd904bc2eb0fa9ac5b6c393b307157e9d3f14d4e97313f61bcd4d1c4561a",
+                      "modified_at":  "2026-07-25 10:13:55 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-scrcpy-windows.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4452,
+                      "sha256":  "9c58de8edf8b73a4ed056befe18736759fe538f0151da2954751a7b6332fe293",
+                      "modified_at":  "2026-07-25 10:13:05 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-sdformatter.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  15157,
+                      "sha256":  "d35b425e9bcd5cb1b88af341fd100802f39edb854ce68949271536380d03cb53",
+                      "modified_at":  "2026-07-25 10:13:23 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-win32diskimager.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  8728,
+                      "sha256":  "84cad0cbf42d920193f878101de5b265f80c4035443f3f19c1cfb484aad4e979",
+                      "modified_at":  "2026-07-25 10:13:45 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/research/src-wsl.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  17933,
+                      "sha256":  "1f5d76875880cbc1850b24022be867ef6e81d043606cd6aac92c026c90ad7fe0",
+                      "modified_at":  "2026-07-25 10:13:25 +08:00"
+                  },
+                  {
                       "path":  "05_开发工具/rkdeveloptool/.gitignore",
                       "category":  "local",
                       "source_url":  "",
@@ -8145,6 +8525,166 @@
                       "modified_at":  "2026-07-19 18:05:55 +08:00"
                   },
                   {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/bin/adb.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1850368,
+                      "sha256":  "b40abda76f72462483a95321caf431b752b7988de0f92bcb0ba27bf6e3b86bfc",
+                      "modified_at":  "2019-06-24 09:13:16 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/bin/AdbWinApi.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  97792,
+                      "sha256":  "d60103a5e99bc9888f786ee916f5d6e45493c3247972cb053833803de7e95cf9",
+                      "modified_at":  "2019-06-24 09:13:16 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/bin/AdbWinUsbApi.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  62976,
+                      "sha256":  "25207c506d29c4e8dceb61b4bd50e8669ba26012988a43fbf26a890b1e60fc97",
+                      "modified_at":  "2019-06-24 09:13:16 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/bin/AFPTool.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  894976,
+                      "sha256":  "c858ebf4ae5ff0453fb70e387640faa01cd69f713412f7b8260db164e8728aad",
+                      "modified_at":  "2021-08-23 09:04:32 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/bin/RKImageMaker.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  890368,
+                      "sha256":  "b53ab573890363d2028c77d0322a2faddfc83730d5692bf7f85dd2f8b2092f29",
+                      "modified_at":  "2021-08-16 14:05:18 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/config.cfg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1249,
+                      "sha256":  "57ad9a5fc3fa4f87a8ccd16000c63af9db4898256c75988cc1586c44ca1d4af1",
+                      "modified_at":  "2026-07-23 20:34:57 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/config.ini",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1572,
+                      "sha256":  "38d6a1db9399deed380bbc7269aa0f7e696a5e5ef273aa5bd434583dc0ecff9f",
+                      "modified_at":  "2023-06-12 19:56:12 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/Language/Chinese.ini",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  16924,
+                      "sha256":  "580c4c9c4554e963af312a628bba8730cd260f45dfbcf65f8114c8cf20fdebf3",
+                      "modified_at":  "2021-11-10 11:13:36 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/Language/English.ini",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  24680,
+                      "sha256":  "0c42ed832a4aa2875e4dfffbaa9a31f1979882d29b09c6f12963c04da546df0d",
+                      "modified_at":  "2021-11-12 14:21:42 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/Log/Log2022-10-20.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  342,
+                      "sha256":  "d3d0d20b84c4a7cac69ec40eea02f04b8ceb2d66510198e8f6fa6cff9e14a663",
+                      "modified_at":  "2022-10-20 19:01:52 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/Log/Log2026-07-23.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2864,
+                      "sha256":  "2057dd09cc5f7f6690fadd0e5cc7750600d99ee81c531c15c4598ef56ff6f3db",
+                      "modified_at":  "2026-07-23 20:15:11 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/revision.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2129,
+                      "sha256":  "99167b27602e1686a72d15e1373a0fee632a8ea6281567150df9fac7c3f33608",
+                      "modified_at":  "2022-05-27 09:09:54 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/RKDevTool.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1240576,
+                      "sha256":  "df831f7bbfd8c31d14c7ce8e98ae4e566db51b1ac51154caac3647ebc70aa470",
+                      "modified_at":  "2022-05-27 09:06:46 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/rock-5b-emmc.cfg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1249,
+                      "sha256":  "dd0f47a15629cf8baedc0ec73f30e528d3466aacb47238a21d76318b4626bec3",
+                      "modified_at":  "2022-10-20 16:20:48 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/rock-5b-spinor.cfg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1249,
+                      "sha256":  "b2ac8a276fa29b292dd1851a509de301115a1a90d9dd4fbea34263fdcacf1a1c",
+                      "modified_at":  "2022-10-20 19:01:14 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/开发工具使用文档_v1.0.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  460320,
+                      "sha256":  "be6d064c5f70a7edc28a9f47a05db97aa7c3e3d9cd99cd46426b364bad7e919a",
+                      "modified_at":  "2021-08-27 10:28:22 +08:00"
+                  },
+                  {
                       "path":  "05_开发工具/scrcpy-win64-v2.3.1.zip",
                       "category":  "local",
                       "source_url":  "",
@@ -8193,6 +8733,26 @@
                       "size_bytes":  9268,
                       "sha256":  "8c477df404f0c38f62cbbd6019919d003409ae3ea7be24f0bd8a3511660d7f2c",
                       "modified_at":  "2026-07-19 15:17:54 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/第2课-创建WiFi自动脚本.ps1",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1799,
+                      "sha256":  "4e540cd1ca8014396833b682199ac15955d5f47f35f634e8a0903daffa0c679e",
+                      "modified_at":  "2026-07-24 16:18:00 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/开发工具完整使用手册.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  29398,
+                      "sha256":  "e6b7151a86d9fa265d2ff728804020c7326ab9e35bf44866b70e5c0daf9a201d",
+                      "modified_at":  "2026-07-25 10:20:19 +08:00"
                   },
                   {
                       "path":  "06_项目案例/open-source-project-recommendations.md",
@@ -8625,14 +9185,34 @@
                       "modified_at":  "2026-07-19 15:17:54 +08:00"
                   },
                   {
+                      "path":  "Buildroot烧录启动日志.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  101135,
+                      "sha256":  "68225ddba9ab48d4402de939ae89eb238cccb387e282d73549907c3ad9b37fd9",
+                      "modified_at":  "2026-07-23 20:17:22 +08:00"
+                  },
+                  {
                       "path":  "README.md",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  3785,
-                      "sha256":  "608434d588db8046b68aa045b2db50f33866afaf9165778b4b7bce234979a946",
-                      "modified_at":  "2026-07-19 18:15:44 +08:00"
+                      "size_bytes":  4529,
+                      "sha256":  "84a0fc5fa52d94aaa796b03ac43c4608dcd142777fb104f5e0fa060ac76a0631",
+                      "modified_at":  "2026-07-26 22:38:54 +08:00"
+                  },
+                  {
+                      "path":  "rkdevtool界面.png",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23423,
+                      "sha256":  "23eac44bf9865a8a0ab19c4e77b6e9091b3d53b86294003c678519f737d4fe07",
+                      "modified_at":  "2026-07-23 20:08:48 +08:00"
                   },
                   {
                       "path":  "scripts/Build-Manifest.ps1",
@@ -8640,9 +9220,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  2184,
-                      "sha256":  "04ab426290230e23429991cdca64a1468362137c9fa613eae6da7b9e7b1aee09",
-                      "modified_at":  "2026-07-19 15:28:12 +08:00"
+                      "size_bytes":  2200,
+                      "sha256":  "7815effa6c2c35a2b799125ab87730a6949458d8024c9916ac8a77f6ed3ea627",
+                      "modified_at":  "2026-07-26 22:51:53 +08:00"
                   },
                   {
                       "path":  "scripts/Download-ReferencedAssets.ps1",
@@ -8680,9 +9260,1259 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  4357,
-                      "sha256":  "6316956b10d1ae9d8ba164b9f3f171f8708526f24a398c64c9e3b87f845235e6",
-                      "modified_at":  "2026-07-19 18:14:33 +08:00"
+                      "size_bytes":  4380,
+                      "sha256":  "530d634406a279aeed3019612c53084d90a2a30cf8d8a26e414a0781a3302ba5",
+                      "modified_at":  "2026-07-26 22:44:12 +08:00"
+                  },
+                  {
+                      "path":  "串口-第2课-重启验证.log",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  98184,
+                      "sha256":  "e4bc75c92650ec1bbcf6eb0fb6683ae52a05c15b4c54523d7ceb489c67a5ef46",
+                      "modified_at":  "2026-07-24 16:23:09 +08:00"
+                  },
+                  {
+                      "path":  "串口输出.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  100818,
+                      "sha256":  "a64e1206e7484b77b7d0447fdd8ee6edd9d2c9c90f80579ab46a7ccc75acd12d",
+                      "modified_at":  "2026-07-24 16:25:30 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第01章.【立创·泰山派】简介/立创·泰山派开发板简介.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6997201,
+                      "sha256":  "9c4883f12cf92185e27b4cd4be75710ebf4df58b72fe884d235ca9f8de1802b1",
+                      "modified_at":  "2026-07-23 16:37:56 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第02章.【立创·泰山派】开源硬件/立创·泰山派开发板项目工程/必读.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  432,
+                      "sha256":  "710c210609731390e5f13cffe05f56a6c87e846238aaa9218cbab9b223e4de14",
+                      "modified_at":  "2026-07-23 16:21:25 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第02章.【立创·泰山派】开源硬件/立创·泰山派开发板项目工程/立创·泰山派开发板项目工程源文件_2023-12-01.epro",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  20336959,
+                      "sha256":  "e5419a1f7997db6483a72ee429ce09792b50258f6f3faf44d6f104d6795ad67f",
+                      "modified_at":  "2026-07-23 16:38:23 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第02章.【立创·泰山派】开源硬件/立创·泰山派开发板项目工程/立创·泰山派开发板原理图.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  11760429,
+                      "sha256":  "ee3a1591a56115238666124312830e5e5e59ba42177d0a84427ea22af0178bd4",
+                      "modified_at":  "2026-07-23 16:21:27 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【Android】系统SDK编译.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1364695,
+                      "sha256":  "896f6cf6eda6a7f5b450a5577a8898bf9c6e49ab5d880982b7655e6d79077ca1",
+                      "modified_at":  "2026-07-23 16:21:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【Android】系统使用文档.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  39858138,
+                      "sha256":  "6c4a17460e4512b30423198c679c7946197fda26bc6b08e98495549f1fe2288d",
+                      "modified_at":  "2026-07-23 16:22:16 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【Buildroot】系统使用文档.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  19622825,
+                      "sha256":  "c7b97824df4c7bc345f36f40717e2209e479335df7e1b0c5448f2cae16712508",
+                      "modified_at":  "2026-07-23 16:21:55 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【Docker】编译环境搭建.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  879416,
+                      "sha256":  "e1bf08fbe87bf6036ee767213dc8fa69914dc60664a4ff90c2fe4e196e949117",
+                      "modified_at":  "2026-07-23 16:21:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【Linux】系统SDK编译.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1501707,
+                      "sha256":  "85958e06dd1085d122a80cbccb159423f1c7b37de1e743ceb176e4d5586b9821",
+                      "modified_at":  "2026-07-23 16:21:53 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【工具】ADB安装与使用.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1732119,
+                      "sha256":  "dec8c5ba0f4a9344bce912b576200e15a119c05e9dd0129085e6e4f8a2b4a99d",
+                      "modified_at":  "2026-07-23 16:21:54 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【工具】调试工具使用.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1098199,
+                      "sha256":  "768db2aa5350b4dd857cd3c5fa12bcdee1310137b1282f5a3efe9cd9c60a5c07",
+                      "modified_at":  "2026-07-23 16:21:54 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【工具】虚拟机安装.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2190819,
+                      "sha256":  "cc40115cd79ee20932121d4bf0be6298b6784b3517987a35d09bc21668017fb4",
+                      "modified_at":  "2026-07-23 16:21:55 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】debian13-linux6.1/archive.7z",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  877501829,
+                      "sha256":  "756e5be5076718888bc1c7c3c45cd8a2e78d500b3d0e30b8fa405969374dda6a",
+                      "modified_at":  "2026-07-23 16:30:59 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】debian13-linux6.1/updateimg_md5.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  47,
+                      "sha256":  "4a40782779574313c01daa77fe928feb356ab215f39f7a30a82e3609468bfdfd",
+                      "modified_at":  "2026-07-23 16:21:57 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】MIPI 4寸长屏转接板/Android_All_Config.cfg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6129,
+                      "sha256":  "f3cf8e893b6bad92fc23ee54c31dfdc5692a77f4bb9db9ad1ff7666ad5335bf4",
+                      "modified_at":  "2026-07-23 16:21:58 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】MIPI 4寸长屏转接板/ProDocument_H0400S001_2024-04-08.epro",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  92317,
+                      "sha256":  "f112d79b8ac427a17b589844c22fa3954690efe5f3576445b57210225527c149",
+                      "modified_at":  "2026-07-23 16:21:59 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】SPI转CAN/mcp251x.c",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  39378,
+                      "sha256":  "8f4c7b0fd2f91815ea54bd52021789ccff8d48580d69323ad2ecb28665b8dfd4",
+                      "modified_at":  "2026-07-23 16:21:59 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【共建】文档附件/【共建】Ubuntu 22.04LTS编译/help.py",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  5489,
+                      "sha256":  "beb401b6f837059ccec4d9e79e4732ef014200580c4cb65b48cbbce9a2da6a13",
+                      "modified_at":  "2026-07-23 16:21:59 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【下载】镜像烧入.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1949742,
+                      "sha256":  "aaf91c0ee31f6e5314b9f59b6f1a95109ca1afeff32f9ee87c800c71e8314551",
+                      "modified_at":  "2026-07-23 16:21:55 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【硬件】IO口分配表.xlsx",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  14493,
+                      "sha256":  "efc52efce7f8a348bb808c9b0b92b29235d4383048fd72bdfc9a4ce615494224",
+                      "modified_at":  "2026-07-23 16:21:56 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/【硬件】手册.pdf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  10707693,
+                      "sha256":  "a4bb3c1ebcfe753743571006b5e4c1d243bc38c920ac388e271b024e18f88e5b",
+                      "modified_at":  "2026-07-23 16:21:58 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第03章.【立创·泰山派】文档手册/必读.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  224,
+                      "sha256":  "9e7be27e7c2f3721310400f7cbd3302e5e9b1663b1a7ebb682c10502a59569f7",
+                      "modified_at":  "2026-07-23 16:21:56 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/ProPrj_立创开发板3.1寸MIPI屏幕扩展板.epro",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  361393,
+                      "sha256":  "331fdb00ec2b5abe22fe71cf11c69bc80ffd6876cbccd41ee0bdd13b01884cc5",
+                      "modified_at":  "2026-07-26 17:18:41 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/extract_sdk.sh",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3435,
+                      "sha256":  "7eac13189e4704025697f5230c93300bdfb6eb5df9fb6cd707043a5f69c755fb",
+                      "modified_at":  "2026-07-26 13:59:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/file_checksums.sha256",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  417434,
+                      "sha256":  "f1f06f21e3ef2522e58c777177c74d24221512e0eb8f15d6def4dd3661c478a2",
+                      "modified_at":  "2026-07-26 13:59:51 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/file_list.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  215936,
+                      "sha256":  "83b183cea80c965aa2d55f691b3775684a8b55591f02a19a7a99880a75383c8c",
+                      "modified_at":  "2026-07-26 13:59:51 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/PACKAGE_REPORT.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1510,
+                      "sha256":  "18533ac5230377613b5869e96f6e4e55a38a09294d7da408119211a0e4a57508",
+                      "modified_at":  "2026-07-26 13:59:51 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/packaging.log",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2340,
+                      "sha256":  "63f8c9756c943b3998943d803773db61498d46d80435c90f8198b9f8ca470a71",
+                      "modified_at":  "2026-07-26 13:59:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/QUICK_START.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  259,
+                      "sha256":  "528c887bf0d63fbdd265752afe27038e23f8b63f223eaeb60e1a5025e204fccc",
+                      "modified_at":  "2026-07-26 13:59:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/README.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2486,
+                      "sha256":  "34a8b29c728b8c78848461a175cf6b754c2abf884b9d40016987cb41d4f15ce2",
+                      "modified_at":  "2026-07-26 13:59:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.00",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "6fba4faca063d5716deafe0cc1ec3c7a8014f2bf14080a7b05ce8df434b5122f",
+                      "modified_at":  "2026-07-26 16:50:04 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.01",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "148d5333c7412dab09e14d4144aab209af06bc4165915dfee50cc99f4e31a851",
+                      "modified_at":  "2026-07-26 15:01:37 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.02",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "a98a8fb3a3ba4c2f242ae7575c85965f7bc008dceb13126c1a5f65c7c4f6808a",
+                      "modified_at":  "2026-07-26 18:12:06 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.03",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "183753f5088f4e5f39da293f30d6431d2e543c3231f5780bbf2e1210ae3f2283",
+                      "modified_at":  "2026-07-26 14:51:43 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.04",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "4231af40d598b6f3b626f9b968d12b38f6a50350cd311e3cb4deca52739cbef8",
+                      "modified_at":  "2026-07-26 16:11:01 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.05",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "9883285a93d77c09e3e1ac1ec30c1993137b9c99a1a5bf7bc63fca9407507d59",
+                      "modified_at":  "2026-07-26 15:36:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.06",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "f84c5801645c4dd3d7b8f3682cb96a9288592c3746b5d35855da23993a51a77d",
+                      "modified_at":  "2026-07-26 16:30:02 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.07",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "589f0f4db5ca49b05ce6c4ca28462828a4f14f706d6232de266c4bb4d0b9c1bc",
+                      "modified_at":  "2026-07-26 17:01:45 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.08",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "f00cc1421f0c988b4876b48c8a5c5f08da663bbf72914765ba30c58969e40dc4",
+                      "modified_at":  "2026-07-26 17:18:37 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.09",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "201706dd6c890397d09284d57f432dfb120f998c5234af97534664fef306a92b",
+                      "modified_at":  "2026-07-26 17:48:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.10",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2147483648,
+                      "sha256":  "b6caf0544be91559802fb6d2e65ddfde3f8519fb972feca06047bf915a9d2336",
+                      "modified_at":  "2026-07-26 17:47:31 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/rk3566_linux_sdk_20260403.tar.xz.part.11",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1941583384,
+                      "sha256":  "08e7515f36502edbb7e9dd4ed1575033fd9e07c14743264795f7376fc0fb9365",
+                      "modified_at":  "2026-07-26 17:56:01 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/sdk_parts_checksums.md5",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  900,
+                      "sha256":  "a2f232900c3514f95f72651ab54714939a6100917631fa85f6a72ba8e58e5b86",
+                      "modified_at":  "2026-07-26 17:18:39 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/tSpi-1M-lInux-kernel6.1-sdk-20260403/sdk_parts_checksums.sha256",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1284,
+                      "sha256":  "eab006c9586b218edbee5e3c1a7d758b1497e1cd685aa0d5f234f341408b60a0",
+                      "modified_at":  "2026-07-26 17:18:40 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第05章.【立创·泰山派】系统SDK/【SDK】Linux-kernel6.1/扩展板fpc排线.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  184208,
+                      "sha256":  "be0fa6965b16fdbdb919a4462910ba3c0caf125d5d4a69b4a2de17e4fbb1c7f6",
+                      "modified_at":  "2026-07-26 17:18:41 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第06章.【立创·泰山派】系统镜像/kernel6.1/【镜像】Buildroot-kernel6.1/buildroot_kernel6.1_img/tspi-1m-kernel6.1-buildroot-hdmi-20260320.img",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1064036938,
+                      "sha256":  "522ea236b200f0719c7195215dc5419c63ea0cc4749921c59eada71ad74400e2",
+                      "modified_at":  "2026-07-23 17:10:51 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第06章.【立创·泰山派】系统镜像/kernel6.1/【镜像】Debian12/debian_kernel6.1_img/tspi-1m-kernel6.1-debian-3.1inch-mipi-20260331.img",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4787677770,
+                      "sha256":  "9d20e2b33ccac515ac9206d6a91069fc7b0933d72baa59756ba09e63282318cf",
+                      "modified_at":  "2026-07-26 17:03:44 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/7z2201-x64.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1575742,
+                      "sha256":  "b055fee85472921575071464a97a79540e489c1c3a14b9bdfbdbab60e17f36e4",
+                      "modified_at":  "2026-07-23 16:22:32 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  9813168,
+                      "sha256":  "d9c020c544bf449b2114ace11678e8d2f532f88954239f82a8552ea7252cfd63",
+                      "modified_at":  "2026-07-23 16:31:40 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/amd64/NOTICE.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  236,
+                      "sha256":  "a19b767b9ddda7306c78232e4a223d0ba966471b74dce3c0c995307cab5bf7b7",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/amd64/WdfCoInstaller01009.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1721576,
+                      "sha256":  "18487b4ff94edccc98ed59d9fca662d4a1331c5f1e14df8db3093256dd9f1c3e",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/amd64/winusbcoinstaller2.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1002728,
+                      "sha256":  "981a17effddbc20377512ddaec9f22c2b7067e17a3e2a8ccf82bb7bb7b2420b6",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/amd64/WUDFUpdate_01009.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2152176,
+                      "sha256":  "015f26bbcd619a0b67b5eaa985b69582bac27d5cbca99ce747a76532fcde4aff",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/android_winusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3176,
+                      "sha256":  "8930b68964456af9521ea6542e2f7fc2fd3fdfd7d069088bc8549c26a54a300a",
+                      "modified_at":  "2018-12-18 16:05:40 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/androidwinusb86.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  26687,
+                      "sha256":  "95a2ae2e04db41845ca27eeb8fbb857281ac3e6d876cf90a8684b900ec75da75",
+                      "modified_at":  "2018-12-19 10:28:02 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/androidwinusba64.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  26575,
+                      "sha256":  "8997b012b13161978d9b447b665f6ca431a47cdfb4b3caa6496a1f7c5a2e6e23",
+                      "modified_at":  "2018-12-19 10:28:04 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/i386/NOTICE.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  236,
+                      "sha256":  "a19b767b9ddda7306c78232e4a223d0ba966471b74dce3c0c995307cab5bf7b7",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/i386/WdfCoInstaller01009.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1461992,
+                      "sha256":  "7a6bf1f950684381205c717a51af2d9c81b203cb1f3db0006a4602e2df675c77",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/i386/winusbcoinstaller2.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  851176,
+                      "sha256":  "ebe3b7708dd974ee87efed3113028d266af87ca8dbae77c47c6f7612824d3d6c",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/ADBDriver/i386/WUDFUpdate_01009.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1837296,
+                      "sha256":  "a902bb3bff785faaeb6432be76f798627a80b2cc45441e16440e46e6d7340f2c",
+                      "modified_at":  "2014-09-16 04:08:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/bin/x64/DIFxAPI.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  519232,
+                      "sha256":  "bf0798d3a4540b15f45c5b329798a2ac532ff693764948b9b4757265e145216e",
+                      "modified_at":  "2009-07-13 19:12:40 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/bin/x64/RKDrvPreinst_x64.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  301056,
+                      "sha256":  "04bcc6aedb104b38560592b45b86701dbe50b6b061237bc1f9b0bcff786f2832",
+                      "modified_at":  "2019-02-01 15:33:58 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/bin/x86/DIFxAPI.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  323648,
+                      "sha256":  "34998dc12e70cd7ddbf9a190ee52835dbe73488eab37c0be7916e0931a754feb",
+                      "modified_at":  "2009-07-13 18:47:06 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/bin/x86/RKDrvPreinst_x86.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  245248,
+                      "sha256":  "86d87fcb2fb1173a18e498bac18d7f0cdc20dd1405a0ec3f6377bc85004ea3d7",
+                      "modified_at":  "2019-02-01 15:33:12 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/config.ini",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  246,
+                      "sha256":  "3c1aadda775825eafecff1d704078626d678a2c62046b6f9f8dd5469114ac083",
+                      "modified_at":  "2014-06-03 15:38:28 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win10/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  20872,
+                      "sha256":  "54f6fef3d13694450de7271492f088ef3c26f227ccf549d5411c1ab48fe48a41",
+                      "modified_at":  "2020-11-09 19:39:56 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win10/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:51:28 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win10/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  47328,
+                      "sha256":  "42d4a476b82b4ebb8f901bc2be36c8b4a731ff2821490415f62ba6d9dca3e7b6",
+                      "modified_at":  "2020-11-09 19:39:58 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win7/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23785,
+                      "sha256":  "8d58531bb79c5918852d1532c1fa8695ad253d182652738e73104199a19f95ec",
+                      "modified_at":  "2020-11-10 11:10:42 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win7/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:53:10 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win7/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  37872,
+                      "sha256":  "708fdc3db4c32750b6b80fe24d9c31bfd0d1a27ad59020204b7ebeb0373aeced",
+                      "modified_at":  "2020-11-10 11:10:44 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win8/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23866,
+                      "sha256":  "f993657c30e2992b3d563c576c793ec70c7c81535df22c6531b5d46124cb0e0b",
+                      "modified_at":  "2020-11-10 11:10:44 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win8/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:52:36 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win8/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  37872,
+                      "sha256":  "6e5154149293927aaf98820af29ec67a0a97fb2a48b8f6696101601021243a95",
+                      "modified_at":  "2020-11-10 11:10:44 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win81/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23874,
+                      "sha256":  "c0e150b7407ebc220af29c90bc93c72171d70a92758ed421ed0b902cb7f4c2f3",
+                      "modified_at":  "2020-11-10 11:10:44 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win81/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:52:08 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x64/win81/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  37872,
+                      "sha256":  "ccbf13af0b2d96d38a9d03ab3ce7c8d7eff3765887da2b09958dbc8b29099635",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win10/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  20838,
+                      "sha256":  "0ea9c8b2348015f786ded9dd698a7e72ee99a6d287b7db99698eee4adbc374ad",
+                      "modified_at":  "2020-11-09 19:35:20 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win10/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:54:18 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win10/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  40160,
+                      "sha256":  "c6fe9cafc4f739cc3468ccc8ecc2cc747590e76513450f9103a5ae941b01cb23",
+                      "modified_at":  "2020-11-09 19:35:20 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win7/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23785,
+                      "sha256":  "a6f5b2196159cfb95ab89b3c5d45228da7d76379e2f5c32925f8a6aac07da97c",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win7/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:55:48 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win7/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  30704,
+                      "sha256":  "760edb4c18a364a0de6686b78ae02199fc3acd7272a2d57d137b4d020cbea768",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win8/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23866,
+                      "sha256":  "154358e5b6ea33eed80ea3cc1f01f2785531c1f0aa660f657ad5d0fad0126f0e",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win8/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:55:16 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win8/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  30704,
+                      "sha256":  "0c10e045350ce754c158dd1456a44c1cd9c7ecc4bb3897f8fb08cdbef1bf7742",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win81/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23866,
+                      "sha256":  "9692649d91aeec18ad6a632ad951b8deb68be8e0c6f31c38a532826d23a3f3fb",
+                      "modified_at":  "2020-11-10 11:10:46 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win81/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:54:48 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/win81/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  30704,
+                      "sha256":  "d6d9be1f6d66530114aa16605025bfcfe8920f58646e5e9460f390fb76ddc6f2",
+                      "modified_at":  "2020-11-10 11:10:48 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/xp/DriverCoInstaller.dll",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  118784,
+                      "sha256":  "0d025495809b2688145e07e58ba44137d8807d114d1eb58e1bed42a7208e75d7",
+                      "modified_at":  "2011-08-23 16:02:16 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/xp/rockusb.cat",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  11120,
+                      "sha256":  "410ebb87f09ee3496409f6cb539a3eb883711c8e0f79d63a647bf6cba7b4844e",
+                      "modified_at":  "2020-11-10 10:57:28 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/xp/rockusb.inf",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  18049,
+                      "sha256":  "6d2b6dbbe7a679b45bb2040f196c1b9855ee49897eb2a9463e3b7b7d3d005ea7",
+                      "modified_at":  "2020-11-10 10:55:48 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Driver/x86/xp/rockusb.sys",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  19072,
+                      "sha256":  "e77a3cccc9d18b90c37abb19fff43a3aebddf96ea8f0a1011e6b636eae0f57c5",
+                      "modified_at":  "2018-09-27 15:26:22 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/DriverInstall.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  501760,
+                      "sha256":  "4719964a651dc8c621779e820ac8455707374253d567c4a92d537fbc54e1fd0d",
+                      "modified_at":  "2020-11-10 14:15:22 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Log/Log2026-07-23.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1078,
+                      "sha256":  "bb433c1f42b8cb31c2e1f7e43e8d4685b37fa7b78204cb1085dbe3fe584059c8",
+                      "modified_at":  "2026-07-23 20:02:09 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/DriverAssitant_v5.11/DriverAssitant_v5.1.1/Readme.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  413,
+                      "sha256":  "0518161f163a63d320441059d54780657db3f9270479d1e685522f158cc86a4b",
+                      "modified_at":  "2018-01-31 17:44:22 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/EfuseTool_v1.42.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  731921,
+                      "sha256":  "abb81d072ad6a7cec31d7a7c5a3f72d9bfe57544ee4d8715e4c031b4bd780fc9",
+                      "modified_at":  "2026-07-23 16:22:32 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/FactoryTool-1.71.200.rar",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1038912,
+                      "sha256":  "b118941b8888355c6d30f7dd80b8be774d6ad75cd43b883a47f2d8cd1cc795e9",
+                      "modified_at":  "2026-07-23 16:22:33 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/Linux_Pack_Firmware.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1987732,
+                      "sha256":  "1b8d75724b1fe18f90769ee2b32de20e2b88f793c34ac26d7cc5671d2c28a052",
+                      "modified_at":  "2026-07-23 16:22:34 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/Linux_Upgrade_Tool_v1.65.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2640232,
+                      "sha256":  "0f1297236f43a607dfc44ab38f66948ea5891d564d5f31fe9331a7bb5e477d4a",
+                      "modified_at":  "2026-07-23 16:25:16 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/Linux_Upgrade_Tool_v2.1.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2387520,
+                      "sha256":  "9933b6df351b666c107a9f5c4589cf9f047bc6a59893e637158c8f5352e74cf9",
+                      "modified_at":  "2026-07-23 16:25:00 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  26102254,
+                      "sha256":  "5c4c6f3098c3e802657b27ff4e56eda8af7d33830450be8d3c950d3469388439",
+                      "modified_at":  "2026-07-23 16:25:23 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/CygUtils.plugin",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  15942848,
+                      "sha256":  "2280b33b6b9acac2d2c777f48fb326786b8166cd9d614b9434ff3ac970468f6f",
+                      "modified_at":  "2020-05-20 22:06:16 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm backup.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3742,
+                      "sha256":  "22fbeff7765bee7220b301a9765d19130844a1102258d5326c0200c3e161823b",
+                      "modified_at":  "2026-07-25 22:15:19 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm.ini",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4377,
+                      "sha256":  "36f6e571f982877dbe39f4cc4c7f0866ab8d28adf881451c6c8438e565b7e8c0",
+                      "modified_at":  "2026-07-26 19:42:43 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm_Personal_20.3.exe",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  14442000,
+                      "sha256":  "93513b739c304079171018663448ae2228c7c9a4a46609328c2d835af9b943a4",
+                      "modified_at":  "2020-06-04 22:30:38 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/platform-tools_r33.0.3-linux.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  7505569,
+                      "sha256":  "ab885c20f1a9cb528eb145b9208f53540efa3d26258ac3ce4363570a0846f8f7",
+                      "modified_at":  "2026-07-23 16:32:26 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/platform-tools_r33.0.3-windows.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  5642796,
+                      "sha256":  "1e59afd40a74c5c0eab0a9fad3f0faf8a674267106e0b19921be9f67081808c2",
+                      "modified_at":  "2026-07-23 16:31:00 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/repo工具/2025-07-07/repo",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  44956,
+                      "sha256":  "64ac114c57bb29feff3750feebfab82654c94e1d44aa37388f6c609cc4b85904",
+                      "modified_at":  "2026-07-23 16:37:53 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/RKDevTool_Release_v2.86.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3213241,
+                      "sha256":  "f7dd955be11650df1fec16621494c847ff83f65fa3d0f96a150e6e7e6f6a90fc",
+                      "modified_at":  "2026-07-23 16:34:09 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/RKDevTool_Release_v2.92(1).zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2745366,
+                      "sha256":  "432f99cd752706d8afdeadec14fa524890dcb4425ca3096fb7f727a78da070c8",
+                      "modified_at":  "2026-07-23 16:37:48 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/RKDevTool_Release_v2.92.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2745366,
+                      "sha256":  "432f99cd752706d8afdeadec14fa524890dcb4425ca3096fb7f727a78da070c8",
+                      "modified_at":  "2026-07-23 16:33:58 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/RNDIS驱动.rar",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  11693,
+                      "sha256":  "ddf25335fcdb50b9360b3d3f3b7e59adfe3daf366ad741269e5cf1dcce383260",
+                      "modified_at":  "2026-07-23 16:31:41 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/scrcpy-win64-v2.3.1.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6048800,
+                      "sha256":  "f1f78ac98214078425804e524a1bed515b9d4b8a05b78d210a4ced2b910b262d",
+                      "modified_at":  "2026-07-23 16:36:17 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/SDCardFormatterv5_WinEN.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6319151,
+                      "sha256":  "4a3e7018af14681100c17d0e71464113a2f4dd4bc6eaa45b8aeed4ce6c67bfba",
+                      "modified_at":  "2026-07-23 16:37:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/SDDiskTool_v1.7.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  486838,
+                      "sha256":  "2470f6344688d92820b9e5ea2aff824e03bdff655e735271871fb3362881b6af",
+                      "modified_at":  "2026-07-23 16:33:33 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/SecureBootTool_v2.2.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  3011296,
+                      "sha256":  "24f6accf45bd48e76290d096dbc1d2af228aacb369768bb54b414622d073aebd",
+                      "modified_at":  "2026-07-23 16:37:08 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/upgrade_tool_v2.3_mac.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  474878,
+                      "sha256":  "98dc1d556cc0c4de3f9f3863a6f2da5617d22543fc764697b1775cd5c144f91c",
+                      "modified_at":  "2026-07-23 16:34:30 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/usb_driver_r13-windows.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  8682039,
+                      "sha256":  "360b01d3dfb6c41621a3a64ae570dfac2c9a40cca1b5a1f136ae90d02f5e9e0b",
+                      "modified_at":  "2026-07-23 16:40:06 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/USB转串口驱动-CH340.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  183443,
+                      "sha256":  "14f092d9423c251bcc205dd9efae60fceb6d2f316e660b12a55aa85cda917f28",
+                      "modified_at":  "2026-07-23 16:37:09 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/win32diskimager-1.0.0-install.exe.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  12499461,
+                      "sha256":  "fd0967c9e0b9ee3df18bd10631ae126e689c23fea962f5fcad5fa7e29c89d377",
+                      "modified_at":  "2026-07-23 16:41:52 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第07章.【立创·泰山派】开发工具/wsl_update_x64.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  16635059,
+                      "sha256":  "f52634866d6e411de85250da033207b101fbf222d8c637482def1e034a4c4cb6",
+                      "modified_at":  "2026-07-23 16:42:58 +08:00"
+                  },
+                  {
+                      "path":  "显示器显示效果.jpg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1574445,
+                      "sha256":  "4044ef0b39c5f36e4122706c16cef6a1f289921db9bcf79cb81afa3bf7856937",
+                      "modified_at":  "2026-07-23 18:34:30 +08:00"
                   }
               ]
 }

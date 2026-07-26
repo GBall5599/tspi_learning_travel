@@ -1,0 +1,103 @@
+{
+  "ok": false,
+  "error_type": "network_error",
+  "error": "OpenAI-compatible HTTP 503: {\"error\":{\"code\":\"model_not_found\",\"message\":\"分组 grok 下模型 grok-4.20-multi-agent-xhigh 无可用渠道（distributor） (request id: 20260725021226747358622x8NuOg42)\",\"type\":\"new_api_error\"}}",
+  "session_id": "dfbcedd01a2c",
+  "query": "MobaXterm official documentation serial terminal SSH sessions",
+  "primary_api_mode": "chat-completions",
+  "content": "",
+  "sources": [],
+  "sources_count": 0,
+  "primary_sources": [],
+  "primary_sources_count": 0,
+  "extra_sources": [],
+  "extra_sources_count": 0,
+  "source_warning": "",
+  "elapsed_ms": 6427.77,
+  "provider_attempts": [
+    {
+      "capability": "main_search",
+      "provider": "OpenAI-compatible",
+      "status": "error",
+      "error_type": "network_error",
+      "error": "OpenAI-compatible HTTP 503: {\"error\":{\"code\":\"model_not_found\",\"message\":\"分组 grok 下模型 grok-4.20-multi-agent-xhigh 无可用渠道（distributor） (request id: 20260725021226747358622x8NuOg42)\",\"type\":\"new_api_error\"}}",
+      "elapsed_ms": 6426.46,
+      "result_count": 0
+    }
+  ],
+  "providers_used": [],
+  "fallback_used": false,
+  "routing_decision": {
+    "docs_intent": true,
+    "zh_current_intent": false,
+    "web_current_intent": false,
+    "fetch_intent": false,
+    "supplemental_paths": [
+      "docs_search"
+    ],
+    "validation_level": "balanced",
+    "fallback_mode": "auto",
+    "providers": "auto",
+    "main_search_chain": [
+      "openai-compatible"
+    ],
+    "openai_compatible_stream": false
+  },
+  "validation_level": "balanced",
+  "minimum_profile_ok": true,
+  "capability_status": {
+    "main_search": {
+      "configured": [
+        "openai-compatible"
+      ],
+      "fallback_chain": [
+        "xai-responses",
+        "openai-compatible"
+      ],
+      "ok": true
+    },
+    "web_search": {
+      "configured": [
+        "tavily",
+        "firecrawl"
+      ],
+      "fallback_chain": [
+        "zhipu",
+        "tavily",
+        "firecrawl"
+      ],
+      "ok": true
+    },
+    "docs_search": {
+      "configured": [
+        "context7"
+      ],
+      "fallback_chain": [
+        "context7",
+        "exa"
+      ],
+      "ok": true
+    },
+    "web_fetch": {
+      "configured": [
+        "tavily",
+        "firecrawl"
+      ],
+      "fallback_chain": [
+        "tavily",
+        "firecrawl"
+      ],
+      "ok": true
+    },
+    "vertical_search": {
+      "configured": [
+        "anysearch"
+      ],
+      "fallback_chain": [
+        "anysearch"
+      ],
+      "experimental": true,
+      "ok": true
+    }
+  }
+}
