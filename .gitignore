@@ -16,3 +16,6 @@
 
 # Accidental scratch file created during local note editing.
 /string
+
+# Portable cross-compilation toolchains downloaded for local learning.
+/05_开发工具/交叉工具链/
