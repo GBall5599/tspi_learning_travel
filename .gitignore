@@ -1,4 +1,4 @@
-﻿# This repository stores the learning notes and lightweight scripts.
+# This repository stores the learning notes and lightweight scripts.
 # Large downloaded/vendor materials remain local and are not pushed to GitHub.
 /网盘资料/
 /01_Wiki离线文档/
@@ -14,8 +14,6 @@
 /05_开发工具/*_Release_v*/
 /05_开发工具/rkdeveloptool/
 
-# Accidental scratch file created during local note editing.
-/string
 
 # Portable cross-compilation toolchains downloaded for local learning.
 /05_开发工具/交叉工具链/

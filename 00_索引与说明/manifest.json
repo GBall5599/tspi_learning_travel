@@ -1,8 +1,8 @@
 ﻿{
-    "generated_at":  "2026-07-26 22:53:36 +08:00",
+    "generated_at":  "2026-07-30 10:14:02 +08:00",
     "root":  "E:\\Embed_Proj\\tspi_rk3566",
-    "file_count":  1051,
-    "total_size_bytes":  36540301091,
+    "file_count":  1072,
+    "total_size_bytes":  36656559986,
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -10,9 +10,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  548,
-                      "sha256":  "d19f4e18b5f7ca5e2debb82158970c022f8c265e4495deaebe9ca8407aceafc5",
-                      "modified_at":  "2026-07-26 22:44:54 +08:00"
+                      "size_bytes":  582,
+                      "sha256":  "f0f40dfdcc035533ae27c97428dc9e68520d7d92dce6197be6b58ccb0d00049c",
+                      "modified_at":  "2026-07-30 10:03:09 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/sources/asset-download-status.json",
@@ -103,6 +103,16 @@
                       "size_bytes":  33817,
                       "sha256":  "a348ce9758ee31ee94e4a063088b6b007428182acc12611b6d39b858ab8f361c",
                       "modified_at":  "2026-07-26 22:44:32 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/草稿/2026-07-23-学习路线草稿.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2540,
+                      "sha256":  "edca5c6fbcf2cc292711fcb02c6e646b41d8c25013d17a7d3c97fc02201126f2",
+                      "modified_at":  "2026-07-23 23:56:23 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/常用命令到底在干什么.md",
@@ -215,6 +225,26 @@
                       "modified_at":  "2026-07-26 22:02:04 +08:00"
                   },
                   {
+                      "path":  "00_索引与说明/第6课-C用户态程序与交叉编译.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  4410,
+                      "sha256":  "b5740e2be008db6555dfead9d6f0287ef0b4a313538632d3168af29891cfaffb",
+                      "modified_at":  "2026-07-29 16:29:54 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/第7课-设备树入门.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6720,
+                      "sha256":  "c442214649f6dacc79642467eddb72032c14f604a354e9021730f8114075b8af",
+                      "modified_at":  "2026-07-29 17:10:43 +08:00"
+                  },
+                  {
                       "path":  "00_索引与说明/分步下载计划.md",
                       "category":  "local",
                       "source_url":  "",
@@ -230,9 +260,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  12086,
-                      "sha256":  "59e49b185ae96c066057c582dfe916ba0490ab6289e33cef84aad89113b60727",
-                      "modified_at":  "2026-07-23 23:56:23 +08:00"
+                      "size_bytes":  12193,
+                      "sha256":  "2a1e8c8cea4e91542edbafbab109dd54ede0d333a5e8ba75e78363f9f18850ce",
+                      "modified_at":  "2026-07-30 10:03:09 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/网络基础补充说明.md",
@@ -260,9 +290,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  4327,
-                      "sha256":  "ae6986ffd4e04b0ce732669bf38f7152791b30d936d7e42c65ffbc5e3b545e69",
-                      "modified_at":  "2026-07-26 22:38:54 +08:00"
+                      "size_bytes":  3226,
+                      "sha256":  "3e53455f8ad252c37bad5a38241071d92ff71be6a3aecaa2277b1365f7688c0a",
+                      "modified_at":  "2026-07-29 17:10:43 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/需登录下载说明.md",
@@ -315,14 +345,134 @@
                       "modified_at":  "2026-07-26 22:02:04 +08:00"
                   },
                   {
+                      "path":  "00_索引与说明/学习记录/2026-07-29-Ubuntu2204-VMware开发环境记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  5152,
+                      "sha256":  "7ebf21c3c15f8d8612b84df7d0c06a6362949395e43b5c8c80fc411618a42381",
+                      "modified_at":  "2026-07-30 10:03:09 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-29-WiFi同名SSID与BSSID排障记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  7054,
+                      "sha256":  "d2f879b789c83557535c22edfd492f8a80f081134e693edec416dac9889f7322",
+                      "modified_at":  "2026-07-29 10:16:06 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-29-第6课-C用户态程序与交叉编译.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2237,
+                      "sha256":  "359905d406e96344eb934696be67deef4068bc9ea9a150d58d71565f32bdecd6",
+                      "modified_at":  "2026-07-29 16:29:54 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-07-29-第7课设备树入门学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2186,
+                      "sha256":  "0fd189f6f5512d142b4e5a6d84f828c71c64526a9b7856fdb45ba34145d39ec7",
+                      "modified_at":  "2026-07-29 17:10:43 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/截图/2026-07-23-RKDevTool界面.png",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  23423,
+                      "sha256":  "23eac44bf9865a8a0ab19c4e77b6e9091b3d53b86294003c678519f737d4fe07",
+                      "modified_at":  "2026-07-23 20:08:48 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/截图/2026-07-23-显示器显示效果.jpg",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1574445,
+                      "sha256":  "4044ef0b39c5f36e4122706c16cef6a1f289921db9bcf79cb81afa3bf7856937",
+                      "modified_at":  "2026-07-23 18:34:30 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/截图/2026-07-29-Ubuntu升级提示.png",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  20344,
+                      "sha256":  "f000959b7059f1efb84b1719bdd18dc6fee49b76b32cffd1bc8b6e0e3e396cf8",
+                      "modified_at":  "2026-07-29 14:51:56 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/截图/2026-07-29-Ubuntu桌面.png",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  793016,
+                      "sha256":  "a4a68dc8ccf08b78346cead6a9e256a65be37df8aa559bf7180d385166c21b44",
+                      "modified_at":  "2026-07-29 12:24:15 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/截图/2026-07-29-VMware硬件选项.png",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  53760,
+                      "sha256":  "2a3e7458258f08f0276d800d8fac857b8de07868d67b51b39b431ae921a7aefd",
+                      "modified_at":  "2026-07-29 11:47:16 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/日志/2026-07-23-Buildroot烧录启动日志.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  101135,
+                      "sha256":  "68225ddba9ab48d4402de939ae89eb238cccb387e282d73549907c3ad9b37fd9",
+                      "modified_at":  "2026-07-23 20:17:22 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/日志/2026-07-24-串口输出.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  100818,
+                      "sha256":  "a64e1206e7484b77b7d0447fdd8ee6edd9d2c9c90f80579ab46a7ccc75acd12d",
+                      "modified_at":  "2026-07-24 16:25:30 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/附件/日志/2026-07-24-第2课重启验证.log",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  98184,
+                      "sha256":  "e4bc75c92650ec1bbcf6eb0fb6683ae52a05c15b4c54523d7ceb489c67a5ef46",
+                      "modified_at":  "2026-07-24 16:23:09 +08:00"
+                  },
+                  {
                       "path":  "00_索引与说明/学习进度总览.md",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  12538,
-                      "sha256":  "7b09c819d5d969fe822447f5ebb4dc2840a381d69f6c2b5d88b3dd90343db771",
-                      "modified_at":  "2026-07-26 22:40:34 +08:00"
+                      "size_bytes":  16123,
+                      "sha256":  "e4729c6f97c0f92143d1a8345ae418040417d1d83f3b69ef0dd6d1a07975217f",
+                      "modified_at":  "2026-07-30 10:03:09 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/学习路线.md",
@@ -330,9 +480,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  3674,
-                      "sha256":  "6a8251153550a1340d26811d409928c666c463a3f078c9e2d681df83941333a7",
-                      "modified_at":  "2026-07-26 22:38:54 +08:00"
+                      "size_bytes":  4552,
+                      "sha256":  "0b3bd2d4aa3c966f3397e7f18c48f8b5f6b26c0cd72ec2f0d80f0b5be4d4d36d",
+                      "modified_at":  "2026-07-29 16:05:56 +08:00"
                   },
                   {
                       "path":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
@@ -8745,6 +8895,16 @@
                       "modified_at":  "2026-07-24 16:18:00 +08:00"
                   },
                   {
+                      "path":  "05_开发工具/交叉工具链/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-aarch64-none-linux-gnu.zip.partial",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  41549824,
+                      "sha256":  "68a6aefc35a63addecdd0c0605c28503807e879b6c19b00067a8861c8151e350",
+                      "modified_at":  "2026-07-26 23:44:34 +08:00"
+                  },
+                  {
                       "path":  "05_开发工具/开发工具完整使用手册.md",
                       "category":  "local",
                       "source_url":  "",
@@ -8773,6 +8933,36 @@
                       "size_bytes":  589,
                       "sha256":  "b7f88e948be004a167feef9f3427220f0edc3e18f9915937830e442150b4e965",
                       "modified_at":  "2026-07-19 15:27:58 +08:00"
+                  },
+                  {
+                      "path":  "06_项目案例/学习实验/第6课-hello-c/build-rk3566.ps1",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1115,
+                      "sha256":  "a253d45d1ad4f5230874dea06cbf77a1dedb00d4232cbffa2c60ace62e267a3d",
+                      "modified_at":  "2026-07-26 23:38:39 +08:00"
+                  },
+                  {
+                      "path":  "06_项目案例/学习实验/第6课-hello-c/hello.c",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  220,
+                      "sha256":  "b8f47218ea065fba62b79b5f6581df6cba9d3f04c5f92fc4e6cb78abaa065382",
+                      "modified_at":  "2026-07-26 23:38:39 +08:00"
+                  },
+                  {
+                      "path":  "06_项目案例/学习实验/第6课-hello-c/README.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  2178,
+                      "sha256":  "dad11f0ef41167dbc5710711fe55151becfacbf3fd7e15dd68e4b4d549e8016a",
+                      "modified_at":  "2026-07-29 16:08:41 +08:00"
                   },
                   {
                       "path":  "assets/atta.szlcsc.com/upload/public/pdf/source/20160903/1472896628181.pdf",
@@ -9185,34 +9375,14 @@
                       "modified_at":  "2026-07-19 15:17:54 +08:00"
                   },
                   {
-                      "path":  "Buildroot烧录启动日志.txt",
-                      "category":  "local",
-                      "source_url":  "",
-                      "access":  "local",
-                      "status":  "generated",
-                      "size_bytes":  101135,
-                      "sha256":  "68225ddba9ab48d4402de939ae89eb238cccb387e282d73549907c3ad9b37fd9",
-                      "modified_at":  "2026-07-23 20:17:22 +08:00"
-                  },
-                  {
                       "path":  "README.md",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  4529,
-                      "sha256":  "84a0fc5fa52d94aaa796b03ac43c4608dcd142777fb104f5e0fa060ac76a0631",
-                      "modified_at":  "2026-07-26 22:38:54 +08:00"
-                  },
-                  {
-                      "path":  "rkdevtool界面.png",
-                      "category":  "local",
-                      "source_url":  "",
-                      "access":  "local",
-                      "status":  "generated",
-                      "size_bytes":  23423,
-                      "sha256":  "23eac44bf9865a8a0ab19c4e77b6e9091b3d53b86294003c678519f737d4fe07",
-                      "modified_at":  "2026-07-23 20:08:48 +08:00"
+                      "size_bytes":  5984,
+                      "sha256":  "0672503819108f21b5f6e7b14238a3633293b5eed2ec47e8e5408bafb91db7d9",
+                      "modified_at":  "2026-07-29 17:10:43 +08:00"
                   },
                   {
                       "path":  "scripts/Build-Manifest.ps1",
@@ -9263,26 +9433,6 @@
                       "size_bytes":  4380,
                       "sha256":  "530d634406a279aeed3019612c53084d90a2a30cf8d8a26e414a0781a3302ba5",
                       "modified_at":  "2026-07-26 22:44:12 +08:00"
-                  },
-                  {
-                      "path":  "串口-第2课-重启验证.log",
-                      "category":  "local",
-                      "source_url":  "",
-                      "access":  "local",
-                      "status":  "generated",
-                      "size_bytes":  98184,
-                      "sha256":  "e4bc75c92650ec1bbcf6eb0fb6683ae52a05c15b4c54523d7ceb489c67a5ef46",
-                      "modified_at":  "2026-07-24 16:23:09 +08:00"
-                  },
-                  {
-                      "path":  "串口输出.txt",
-                      "category":  "local",
-                      "source_url":  "",
-                      "access":  "local",
-                      "status":  "generated",
-                      "size_bytes":  100818,
-                      "sha256":  "a64e1206e7484b77b7d0447fdd8ee6edd9d2c9c90f80579ab46a7ccc75acd12d",
-                      "modified_at":  "2026-07-24 16:25:30 +08:00"
                   },
                   {
                       "path":  "网盘资料/第01章.【立创·泰山派】简介/立创·泰山派开发板简介.pdf",
@@ -10320,9 +10470,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  3742,
-                      "sha256":  "22fbeff7765bee7220b301a9765d19130844a1102258d5326c0200c3e161823b",
-                      "modified_at":  "2026-07-25 22:15:19 +08:00"
+                      "size_bytes":  8212,
+                      "sha256":  "4f2a4aea3884da2ccd873a03c2221b44ca751e1c0676c5e09e70e91c2099a9c4",
+                      "modified_at":  "2026-07-29 15:52:10 +08:00"
                   },
                   {
                       "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm.ini",
@@ -10330,9 +10480,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  4377,
-                      "sha256":  "36f6e571f982877dbe39f4cc4c7f0866ab8d28adf881451c6c8438e565b7e8c0",
-                      "modified_at":  "2026-07-26 19:42:43 +08:00"
+                      "size_bytes":  5051,
+                      "sha256":  "4179cc0c80b9a4640a3789d4469341c74089d76a1a6db225e434d1bcaa1f5365",
+                      "modified_at":  "2026-07-29 15:52:10 +08:00"
                   },
                   {
                       "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm_Personal_20.3.exe",
@@ -10505,14 +10655,74 @@
                       "modified_at":  "2026-07-23 16:42:58 +08:00"
                   },
                   {
-                      "path":  "显示器显示效果.jpg",
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/3.1寸大显MIPI补丁.zip",
                       "category":  "local",
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  1574445,
-                      "sha256":  "4044ef0b39c5f36e4122706c16cef6a1f289921db9bcf79cb81afa3bf7856937",
-                      "modified_at":  "2026-07-23 18:34:30 +08:00"
+                      "size_bytes":  13199,
+                      "sha256":  "1a56e66ff6d53611bfae8cc1950646028d16a8c5e9c2ccf3c451e6a17880dbda",
+                      "modified_at":  "2026-07-29 17:50:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/3.1寸屏幕背光驱动Linux补丁.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  20435,
+                      "sha256":  "06314a9f27223a6d29689aa396fd697b6759e2c409b8f31ed292e8e01a45f130",
+                      "modified_at":  "2026-07-29 17:50:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/3.1寸屏幕背光驱动补丁.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  100931,
+                      "sha256":  "efe4af575fc70701ab6fa47aff1fd74787f69d1e20a341991bd0789f8ecd7b38",
+                      "modified_at":  "2026-07-29 17:50:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/3.1寸屏幕触摸Linxu驱动补丁.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  27831,
+                      "sha256":  "a741e3d4e283d6764e6c6afdf503bf06c417ac67b423e1c20cbe8589dd232d16",
+                      "modified_at":  "2026-07-29 17:50:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/3.1寸屏幕触摸驱动补丁.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  26845,
+                      "sha256":  "63d9e9237b892999dd64b16f1cd128ee0b7386fdd86213f85286e5e7898ebd43",
+                      "modified_at":  "2026-07-29 17:50:24 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/胖妞手机安卓版代码补丁（默认横屏）.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  32608828,
+                      "sha256":  "0204deac6c479f0471c349425ce5c7c0e04daaec8cb96eb670a934e38de66164",
+                      "modified_at":  "2026-07-29 17:50:35 +08:00"
+                  },
+                  {
+                      "path":  "网盘资料/第09章.【立创·泰山派】项目案例/【智能小手机】项目资料/7.手机综合项目/代码补丁/胖妞手机安卓版代码补丁（默认竖屏）.zip",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  40999968,
+                      "sha256":  "1c6f51475fb3e3a2efbb8dfbc3abb06e06ca2d7eb00eb2bd211993edb21f3b89",
+                      "modified_at":  "2026-07-29 17:50:33 +08:00"
                   }
               ]
 }
