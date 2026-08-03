@@ -73,4 +73,4 @@ aarch64-linux-gnu-gcc -std=c11 -Wall -Wextra -O0 -static -o hello hello.c
 
 ## 后续衔接
 
-第 6 课已经完成，当前主线进入第 8 课“显示与 3.1 寸 MIPI 屏”。后续当需要依赖目标系统库、Buildroot SDK、内核模块或设备树编译时，应改用与目标 Buildroot / SDK 匹配的工具链和 sysroot，而不是长期依赖本课的静态链接入门策略。
+第 6 课已经完成；当前第 8 课显示链路只读盘点也已完成，下一步为第 9 课官方 3.1 寸 MIPI 镜像硬件基线。后续当需要依赖目标系统库、Buildroot SDK、内核模块或设备树编译时，应改用与目标 Buildroot / SDK 匹配的工具链和 sysroot，而不是长期依赖本课的静态链接入门策略。

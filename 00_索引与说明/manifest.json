@@ -1,8 +1,8 @@
 ﻿{
-    "generated_at":  "2026-07-30 10:14:02 +08:00",
+    "generated_at":  "2026-08-03 21:03:28 +08:00",
     "root":  "E:\\Embed_Proj\\tspi_rk3566",
-    "file_count":  1072,
-    "total_size_bytes":  36656559986,
+    "file_count":  1078,
+    "total_size_bytes":  36656612205,
     "files":  [
                   {
                       "path":  ".gitignore",
@@ -13,6 +13,16 @@
                       "size_bytes":  582,
                       "sha256":  "f0f40dfdcc035533ae27c97428dc9e68520d7d92dce6197be6b58ccb0d00049c",
                       "modified_at":  "2026-07-30 10:03:09 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/Linux驱动学习总计划.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  13665,
+                      "sha256":  "3086f182f61d8da66cb3823b5ed843ba7232cb1fae3ca2dba412341345d77bde",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/sources/asset-download-status.json",
@@ -140,9 +150,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  3736,
-                      "sha256":  "31733de5c4569dcc3cfc7400fb3efdf263c4d259065b2c48b3e90659f24fcd26",
-                      "modified_at":  "2026-07-26 22:38:20 +08:00"
+                      "size_bytes":  4309,
+                      "sha256":  "f9febb44c4a8d66b30c56bab897dbcd83b1792f7103c2747eab9b87041c3f901",
+                      "modified_at":  "2026-08-03 21:00:10 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/第2课-WiFi开机自动重连.md",
@@ -250,9 +260,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  17418,
-                      "sha256":  "482ba869cb1f19fcd35e506cabc5ca23f24787ea9b6f2e497e32065ddf06f605",
-                      "modified_at":  "2026-07-26 22:40:34 +08:00"
+                      "size_bytes":  17592,
+                      "sha256":  "d2d547c924ffb87f27d246c9ede77ebb7dc4e376b29f0ee57c78a5f18b95b240",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/启动流程-从通电到联网.md",
@@ -263,6 +273,16 @@
                       "size_bytes":  12193,
                       "sha256":  "2a1e8c8cea4e91542edbafbab109dd54ede0d333a5e8ba75e78363f9f18850ce",
                       "modified_at":  "2026-07-30 10:03:09 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/外设模块盘点模板.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  1860,
+                      "sha256":  "9cab0047f4fad8c68582038779cf6727a884a1eb968397e746c283d4498d1369",
+                      "modified_at":  "2026-07-31 09:22:20 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/网络基础补充说明.md",
@@ -280,9 +300,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  2147,
-                      "sha256":  "4d46c3ebd1805564eeca8c07046b01e1a05a4c1e6ba3a51cb6ff3cabfd95bc69",
-                      "modified_at":  "2026-07-26 22:38:20 +08:00"
+                      "size_bytes":  3156,
+                      "sha256":  "0ac5842948465839730ceef890a670bc5f9b916c73aed21bf3ac4cc9e3de7bea",
+                      "modified_at":  "2026-08-03 21:00:32 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/下一步学习计划.md",
@@ -290,9 +310,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  3226,
-                      "sha256":  "3e53455f8ad252c37bad5a38241071d92ff71be6a3aecaa2277b1365f7688c0a",
-                      "modified_at":  "2026-07-29 17:10:43 +08:00"
+                      "size_bytes":  5060,
+                      "sha256":  "8775e92826e42bd3c31711df80f840e1675037c653e7d9404f7f353fcb0e41fc",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/需登录下载说明.md",
@@ -385,6 +405,26 @@
                       "modified_at":  "2026-07-29 17:10:43 +08:00"
                   },
                   {
+                      "path":  "00_索引与说明/学习记录/2026-07-30-前7课知识考核总结.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  8830,
+                      "sha256":  "1838f59ca02e2c647194e98f44123bfa4f3865dd94b9ea630514c052d50aacb3",
+                      "modified_at":  "2026-07-30 16:06:17 +08:00"
+                  },
+                  {
+                      "path":  "00_索引与说明/学习记录/2026-08-03-第8课显示链路学习记录.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  6709,
+                      "sha256":  "50a2d9f2fef34c90dafd31ff1d862be85610ef9c4003eab08ad7ee9ac7413d90",
+                      "modified_at":  "2026-08-03 21:01:00 +08:00"
+                  },
+                  {
                       "path":  "00_索引与说明/学习记录/附件/截图/2026-07-23-RKDevTool界面.png",
                       "category":  "local",
                       "source_url":  "",
@@ -470,9 +510,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  16123,
-                      "sha256":  "e4729c6f97c0f92143d1a8345ae418040417d1d83f3b69ef0dd6d1a07975217f",
-                      "modified_at":  "2026-07-30 10:03:09 +08:00"
+                      "size_bytes":  18234,
+                      "sha256":  "0a2d503171242de0e8da197006aa59de59f79af718ebb3f9946abfdfcef25901",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "00_索引与说明/学习路线.md",
@@ -480,9 +520,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  4552,
-                      "sha256":  "0b3bd2d4aa3c966f3397e7f18c48f8b5f6b26c0cd72ec2f0d80f0b5be4d4d36d",
-                      "modified_at":  "2026-07-29 16:05:56 +08:00"
+                      "size_bytes":  3434,
+                      "sha256":  "6c38dc2451b769fc45c63f8fa21cd1e4f6b4df53dc9e27a8e93fc358b6567456",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "01_Wiki离线文档/documentation/buildroot-add-ffmpeg.md",
@@ -8731,8 +8771,8 @@
                       "access":  "local",
                       "status":  "generated",
                       "size_bytes":  1249,
-                      "sha256":  "57ad9a5fc3fa4f87a8ccd16000c63af9db4898256c75988cc1586c44ca1d4af1",
-                      "modified_at":  "2026-07-23 20:34:57 +08:00"
+                      "sha256":  "62dafa66e15d97b295c52c3ccaa296670392a8ba7f9c93ae377bb167cac23ef8",
+                      "modified_at":  "2026-07-30 16:31:14 +08:00"
                   },
                   {
                       "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/config.ini",
@@ -8783,6 +8823,16 @@
                       "size_bytes":  2864,
                       "sha256":  "2057dd09cc5f7f6690fadd0e5cc7750600d99ee81c531c15c4598ef56ff6f3db",
                       "modified_at":  "2026-07-23 20:15:11 +08:00"
+                  },
+                  {
+                      "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/Log/Log2026-07-30.txt",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  84,
+                      "sha256":  "e8af3383a72f3c114489723eb9f5f9d9ea3492dc45bcb5b021b3a6b2c9e5fac3",
+                      "modified_at":  "2026-07-30 16:28:58 +08:00"
                   },
                   {
                       "path":  "05_开发工具/RKDevTool_Release_v2.96_zh/RKDevTool_Release_v2.96/revision.txt",
@@ -8935,6 +8985,16 @@
                       "modified_at":  "2026-07-19 15:27:58 +08:00"
                   },
                   {
+                      "path":  "06_项目案例/项目计划-胖妞智能小手机.md",
+                      "category":  "local",
+                      "source_url":  "",
+                      "access":  "local",
+                      "status":  "generated",
+                      "size_bytes":  10519,
+                      "sha256":  "61a36e0a12658c5f71b72dbdafdc500dd8ca0c5739cfe6fa8b21e84fa6c92ba1",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
+                  },
+                  {
                       "path":  "06_项目案例/学习实验/第6课-hello-c/build-rk3566.ps1",
                       "category":  "local",
                       "source_url":  "",
@@ -8960,9 +9020,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  2178,
-                      "sha256":  "dad11f0ef41167dbc5710711fe55151becfacbf3fd7e15dd68e4b4d549e8016a",
-                      "modified_at":  "2026-07-29 16:08:41 +08:00"
+                      "size_bytes":  3435,
+                      "sha256":  "462224b5de2a6398037daa2ea3f1d41217e56e9d66505ceb2f596012456c51e2",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "assets/atta.szlcsc.com/upload/public/pdf/source/20160903/1472896628181.pdf",
@@ -9380,9 +9440,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  5984,
-                      "sha256":  "0672503819108f21b5f6e7b14238a3633293b5eed2ec47e8e5408bafb91db7d9",
-                      "modified_at":  "2026-07-29 17:10:43 +08:00"
+                      "size_bytes":  7303,
+                      "sha256":  "e045c080bf8feddc649be1825b2d62fd351f17194b99c8f73db946948d5be2d7",
+                      "modified_at":  "2026-08-03 20:59:00 +08:00"
                   },
                   {
                       "path":  "scripts/Build-Manifest.ps1",
@@ -10470,9 +10530,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  8212,
-                      "sha256":  "4f2a4aea3884da2ccd873a03c2221b44ca751e1c0676c5e09e70e91c2099a9c4",
-                      "modified_at":  "2026-07-29 15:52:10 +08:00"
+                      "size_bytes":  10573,
+                      "sha256":  "28e0b85f20b2dac5dd3ae4e2e33ebb06c2f832c0a0ef24398035f959cb9042ca",
+                      "modified_at":  "2026-08-03 18:01:17 +08:00"
                   },
                   {
                       "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm.ini",
@@ -10480,9 +10540,9 @@
                       "source_url":  "",
                       "access":  "local",
                       "status":  "generated",
-                      "size_bytes":  5051,
-                      "sha256":  "4179cc0c80b9a4640a3789d4469341c74089d76a1a6db225e434d1bcaa1f5365",
-                      "modified_at":  "2026-07-29 15:52:10 +08:00"
+                      "size_bytes":  6083,
+                      "sha256":  "6a3644454cc43cbecaed2d19b791aec45a1d26980974544c97516c2f36d5954d",
+                      "modified_at":  "2026-08-03 18:01:17 +08:00"
                   },
                   {
                       "path":  "网盘资料/第07章.【立创·泰山派】开发工具/MobaXterm_Portable_v20.3/MobaXterm_Personal_20.3.exe",
